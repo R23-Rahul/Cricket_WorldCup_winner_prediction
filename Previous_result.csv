@@ -1,0 +1,1054 @@
+S.N,Team 1,Team 2,Winner,Margin,Ground,Match Date,Scorecard
+0,New Zealand,Sri Lanka,New Zealand,45 runs,Mount Maunganui,03-01-2019,ODI # 4074
+1,New Zealand,Sri Lanka,New Zealand,21 runs,Mount Maunganui,04-01-2019,ODI # 4075
+2,New Zealand,Sri Lanka,New Zealand,115 runs,Nelson,05-01-2019,ODI # 4076
+3,Australia,India,Australia,34 runs,Sydney,06-01-2019,ODI # 4077
+4,Australia,India,India,6 wickets,Adelaide,07-01-2019,ODI # 4078
+5,Australia,India,India,7 wickets,Melbourne,08-01-2019,ODI # 4079
+6,South Africa,Pakistan,Pakistan,5 wickets,Gqeberha,09-01-2019,ODI # 4080
+7,South Africa,Pakistan,South Africa,5 wickets,Durban,10-01-2019,ODI # 4081
+8,New Zealand,India,India,8 wickets,Napier,11-01-2019,ODI # 4082
+9,U.A.E.,Nepal,U.A.E.,3 wickets,ICCA Dubai,12-01-2019,ODI # 4083
+10,South Africa,Pakistan,South Africa,13 runs,Centurion,13-01-2019,ODI # 4084
+11,New Zealand,India,India,90 runs,Mount Maunganui,14-01-2019,ODI # 4085
+12,U.A.E.,Nepal,Nepal,145 runs,ICCA Dubai,15-01-2019,ODI # 4086
+13,South Africa,Pakistan,Pakistan,8 wickets,Johannesburg,16-01-2019,ODI # 4087
+14,New Zealand,India,India,7 wickets,Mount Maunganui,17-01-2019,ODI # 4088
+15,U.A.E.,Nepal,Nepal,4 wickets,ICCA Dubai,18-01-2019,ODI # 4089
+16,South Africa,Pakistan,South Africa,7 wickets,Cape Town,19-01-2019,ODI # 4090
+17,New Zealand,India,New Zealand,8 wickets,Hamilton,20-01-2019,ODI # 4091
+18,New Zealand,India,India,35 runs,Wellington,21-01-2019,ODI # 4092
+19,New Zealand,Bangladesh,New Zealand,8 wickets,Napier,13-02-2019,ODI # 4093
+20,New Zealand,Bangladesh,New Zealand,8 wickets,Christchurch,16-02-2019,ODI # 4094
+21,New Zealand,Bangladesh,New Zealand,88 runs,Dunedin,20-02-2019,ODI # 4095
+22,West Indies,England,England,6 wickets,Bridgetown,20-02-2019,ODI # 4096
+23,West Indies,England,West Indies,26 runs,Bridgetown,22-02-2019,ODI # 4097
+24,West Indies,England,no result,-,St George's,25-02-2019,ODI # 4098
+25,West Indies,England,England,29 runs,St George's,27-02-2019,ODI # 4099
+26,Afghanistan,Ireland,Afghanistan,5 wickets,Dehradun,28-02-2019,ODI # 4100
+27,Afghanistan,Ireland,no result,-,Dehradun,02-03-2019,ODI # 4101
+28,India,Australia,India,6 wickets,Hyderabad,02-03-2019,ODI # 4102
+29,West Indies,England,West Indies,7 wickets,Gros Islet,02-03-2019,ODI # 4103
+30,South Africa,Sri Lanka,South Africa,8 wickets,Johannesburg,03-03-2019,ODI # 4104
+31,Afghanistan,Ireland,Ireland,4 wickets,Dehradun,05-03-2019,ODI # 4105
+32,India,Australia,India,8 runs,Nagpur,05-03-2019,ODI # 4106
+33,South Africa,Sri Lanka,South Africa,113 runs,Centurion,06-03-2019,ODI # 4107
+34,Afghanistan,Ireland,Afghanistan,109 runs,Dehradun,08-03-2019,ODI # 4108
+35,India,Australia,Australia,32 runs,Ranchi,08-03-2019,ODI # 4109
+36,Afghanistan,Ireland,Ireland,5 wickets,Dehradun,10-03-2019,ODI # 4110
+37,India,Australia,Australia,4 wickets,Mohali,10-03-2019,ODI # 4111
+38,South Africa,Sri Lanka,South Africa,71 runs,Durban,10-03-2019,ODI # 4112
+39,India,Australia,Australia,35 runs,Delhi,13-03-2019,ODI # 4113
+40,South Africa,Sri Lanka,South Africa,6 wickets,Gqeberha,13-03-2019,ODI # 4114
+41,South Africa,Sri Lanka,South Africa,41 runs,Cape Town,16-03-2019,ODI # 4115
+42,Australia,Pakistan,Australia,8 wickets,Sharjah,22-03-2019,ODI # 4116
+43,Australia,Pakistan,Australia,8 wickets,Sharjah,24-03-2019,ODI # 4117
+44,Australia,Pakistan,Australia,80 runs,Abu Dhabi,27-03-2019,ODI # 4118
+45,Australia,Pakistan,Australia,6 runs,Dubai (DSC),29-03-2019,ODI # 4119
+46,Australia,Pakistan,Australia,20 runs,Dubai (DSC),31-03-2019,ODI # 4120
+47,Zimbabwe,U.A.E.,Zimbabwe,7 wickets,Harare,01-04-2019,ODI # 4121
+48,Zimbabwe,U.A.E.,Zimbabwe,4 runs,Harare,02-04-2019,ODI # 4122
+49,Zimbabwe,U.A.E.,Zimbabwe,131 runs,Harare,03-04-2019,ODI # 4123
+50,Zimbabwe,U.A.E.,Zimbabwe,3 wickets,Harare,04-04-2019,ODI # 4124
+51,Namibia,Oman,Namibia,145 runs,Windhoek,05-04-2019,ODI # 4125
+52,P.N.G.,U.S.A.,P.N.G.,5 wickets,Windhoek,06-04-2019,ODI # 4126
+53,Ireland,England,England,4 wickets,Dublin (Malahide),07-04-2019,ODI # 4127
+54,Ireland,West Indies,West Indies,196 runs,Dublin,08-04-2019,ODI # 4128
+55,Bangladesh,West Indies,Bangladesh,8 wickets,Dublin,09-04-2019,ODI # 4129
+56,England,Pakistan,no result,-,The Oval,10-04-2019,ODI # 4130
+57,Scotland,Afghanistan,Afghanistan,2 runs,Edinburgh,10-05-2019,ODI # 4131
+58,Ireland,West Indies,West Indies,5 wickets,Dublin (Malahide),11-05-2019,ODI # 4132
+59,England,Pakistan,England,12 runs,Southampton,11-05-2019,ODI # 4133
+60,Bangladesh,West Indies,Bangladesh,5 wickets,Dublin (Malahide),13-05-2019,ODI # 4134
+61,England,Pakistan,England,6 wickets,Bristol,14-05-2019,ODI # 4135
+62,Ireland,Bangladesh,Bangladesh,6 wickets,Dublin,15-05-2019,ODI # 4136
+63,Bangladesh,West Indies,Bangladesh,5 wickets,Dublin (Malahide),17-05-2019,ODI # 4137
+64,England,Pakistan,England,3 wickets,Nottingham,17-05-2019,ODI # 4138
+65,Ireland,Afghanistan,Ireland,72 runs,Belfast,19-05-2019,ODI # 4139
+66,England,Pakistan,England,54 runs,Leeds,19-05-2019,ODI # 4140
+67,Ireland,Afghanistan,Afghanistan,126 runs,Belfast,21-05-2019,ODI # 4141
+68,Scotland,Sri Lanka,Sri Lanka,35 runs,Edinburgh,21-05-2019,ODI # 4142
+69,England,South Africa,England,104 runs,The Oval,30-05-2019,ODI # 4143
+70,Pakistan,West Indies,West Indies,7 wickets,Nottingham,31-05-2019,ODI # 4144
+71,New Zealand,Sri Lanka,New Zealand,10 wickets,Cardiff,01-06-2019,ODI # 4145
+72,Afghanistan,Australia,Australia,7 wickets,Bristol,01-06-2019,ODI # 4146
+73,Bangladesh,South Africa,Bangladesh,21 runs,The Oval,02-06-2019,ODI # 4147
+74,England,Pakistan,Pakistan,14 runs,Nottingham,03-06-2019,ODI # 4148
+75,Afghanistan,Sri Lanka,Sri Lanka,34 runs,Cardiff,04-06-2019,ODI # 4149
+76,India,South Africa,India,6 wickets,Southampton,05-06-2019,ODI # 4150
+77,Bangladesh,New Zealand,New Zealand,2 wickets,The Oval,05-06-2019,ODI # 4151
+78,Australia,West Indies,Australia,15 runs,Nottingham,06-06-2019,ODI # 4152
+79,England,Bangladesh,England,106 runs,Cardiff,08-06-2019,ODI # 4153
+80,Afghanistan,New Zealand,New Zealand,7 wickets,Taunton,08-06-2019,ODI # 4154
+81,Australia,India,India,36 runs,The Oval,09-06-2019,ODI # 4155
+82,South Africa,West Indies,no result,-,Southampton,10-06-2019,ODI # 4156
+83,Australia,Pakistan,Australia,41 runs,Taunton,12-06-2019,ODI # 4157
+84,England,West Indies,England,8 wickets,Southampton,14-06-2019,ODI # 4158
+85,Australia,Sri Lanka,Australia,87 runs,The Oval,15-06-2019,ODI # 4159
+86,Afghanistan,South Africa,South Africa,9 wickets,Cardiff,15-06-2019,ODI # 4160
+87,India,Pakistan,India,89 runs,Manchester,16-06-2019,ODI # 4161
+88,Bangladesh,West Indies,Bangladesh,7 wickets,Taunton,17-06-2019,ODI # 4162
+89,England,Afghanistan,England,150 runs,Manchester,18-06-2019,ODI # 4163
+90,Netherlands,Zimbabwe,Netherlands,7 wickets,Deventer,19-06-2019,ODI # 4164
+91,New Zealand,South Africa,New Zealand,4 wickets,Birmingham,19-06-2019,ODI # 4165
+92,Australia,Bangladesh,Australia,48 runs,Nottingham,20-06-2019,ODI # 4166
+93,Netherlands,Zimbabwe,Netherlands,3 wickets,Deventer,21-06-2019,ODI # 4167
+94,England,Sri Lanka,Sri Lanka,20 runs,Leeds,21-06-2019,ODI # 4168
+95,Afghanistan,India,India,11 runs,Southampton,22-06-2019,ODI # 4169
+96,New Zealand,West Indies,New Zealand,5 runs,Manchester,22-06-2019,ODI # 4170
+97,Pakistan,South Africa,Pakistan,49 runs,Lord's,23-06-2019,ODI # 4171
+98,Afghanistan,Bangladesh,Bangladesh,62 runs,Southampton,24-06-2019,ODI # 4172
+99,England,Australia,Australia,64 runs,Lord's,25-06-2019,ODI # 4173
+100,New Zealand,Pakistan,Pakistan,6 wickets,Birmingham,26-06-2019,ODI # 4174
+101,India,West Indies,India,125 runs,Manchester,27-06-2019,ODI # 4175
+102,South Africa,Sri Lanka,South Africa,9 wickets,Chester-le-Street,28-06-2019,ODI # 4176
+103,Afghanistan,Pakistan,Pakistan,3 wickets,Leeds,29-06-2019,ODI # 4177
+104,Australia,New Zealand,Australia,86 runs,Lord's,29-06-2019,ODI # 4178
+105,England,India,England,31 runs,Birmingham,30-06-2019,ODI # 4179
+106,Sri Lanka,West Indies,Sri Lanka,23 runs,Chester-le-Street,01-07-2019,ODI # 4180
+107,Ireland,Zimbabwe,Ireland,4 wickets,Bready,01-07-2019,ODI # 4181
+108,Bangladesh,India,India,28 runs,Birmingham,02-07-2019,ODI # 4182
+109,England,New Zealand,England,119 runs,Chester-le-Street,03-07-2019,ODI # 4183
+110,Afghanistan,West Indies,West Indies,23 runs,Leeds,04-07-2019,ODI # 4184
+111,Ireland,Zimbabwe,Ireland,5 runs,Belfast,04-07-2019,ODI # 4185
+112,Bangladesh,Pakistan,Pakistan,94 runs,Lord's,05-07-2019,ODI # 4186
+113,India,Sri Lanka,India,7 wickets,Leeds,06-07-2019,ODI # 4187
+114,Australia,South Africa,South Africa,10 runs,Manchester,06-07-2019,ODI # 4188
+115,Ireland,Zimbabwe,Ireland,6 wickets,Belfast,07-07-2019,ODI # 4189
+116,India,New Zealand,New Zealand,18 runs,Manchester,09-07-2019,ODI # 4190
+117,England,Australia,England,8 wickets,Birmingham,11-07-2019,ODI # 4191
+118,England,New Zealand,tied,-,Lord's,14-07-2019,ODI # 4192
+119,Sri Lanka,Bangladesh,Sri Lanka,91 runs,Colombo (RPS),26-07-2019,ODI # 4193
+120,Sri Lanka,Bangladesh,Sri Lanka,7 wickets,Colombo (RPS),28-07-2019,ODI # 4194
+121,Sri Lanka,Bangladesh,Sri Lanka,122 runs,Colombo (RPS),31-07-2019,ODI # 4195
+122,West Indies,India,no result,-,Providence,08-08-2019,ODI # 4196
+123,West Indies,India,India,59 runs,Port of Spain,11-08-2019,ODI # 4197
+124,Oman,P.N.G.,Oman,4 wickets,Aberdeen,14-08-2019,ODI # 4198
+125,West Indies,India,India,6 wickets,Port of Spain,14-08-2019,ODI # 4199
+126,Scotland,Oman,Oman,8 wickets,Aberdeen,15-08-2019,ODI # 4200
+127,Scotland,P.N.G.,Scotland,3 wickets,Aberdeen,17-08-2019,ODI # 4201
+128,Scotland,Oman,Scotland,85 runs,Aberdeen,18-08-2019,ODI # 4202
+129,Scotland,P.N.G.,Scotland,38 runs,Aberdeen,20-08-2019,ODI # 4203
+130,Oman,P.N.G.,Oman,4 wickets,Aberdeen,21-08-2019,ODI # 4204
+131,U.S.A.,P.N.G.,U.S.A.,5 runs,Lauderhill,13-09-2019,ODI # 4205
+132,U.S.A.,Namibia,U.S.A.,5 wickets,Lauderhill,17-09-2019,ODI # 4206
+133,U.S.A.,P.N.G.,U.S.A.,62 runs,Lauderhill,19-09-2019,ODI # 4207
+134,U.S.A.,Namibia,Namibia,139 runs,Lauderhill,20-09-2019,ODI # 4208
+135,Namibia,P.N.G.,Namibia,4 wickets,Lauderhill,22-09-2019,ODI # 4209
+136,Namibia,P.N.G.,Namibia,27 runs,Lauderhill,23-09-2019,ODI # 4210
+137,Pakistan,Sri Lanka,Pakistan,67 runs,Karachi,30-09-2019,ODI # 4211
+138,Pakistan,Sri Lanka,Pakistan,5 wickets,Karachi,02-10-2019,ODI # 4212
+139,Afghanistan,West Indies,West Indies,7 wickets,Lucknow,06-11-2019,ODI # 4213
+140,Afghanistan,West Indies,West Indies,47 runs,Lucknow,09-11-2019,ODI # 4214
+141,Afghanistan,West Indies,West Indies,5 wickets,Lucknow,11-11-2019,ODI # 4215
+142,U.A.E.,U.S.A.,U.S.A.,3 wickets,Sharjah,08-12-2019,ODI # 4216
+143,Scotland,U.S.A.,U.S.A.,35 runs,Sharjah,09-12-2019,ODI # 4217
+144,U.A.E.,U.S.A.,U.S.A.,98 runs,ICCA Dubai,12-12-2019,ODI # 4218
+145,Scotland,U.S.A.,Scotland,4 wickets,ICCA Dubai,14-12-2019,ODI # 4219
+146,U.A.E.,Scotland,U.A.E.,7 wickets,ICCA Dubai,15-12-2019,ODI # 4220
+147,India,West Indies,West Indies,8 wickets,Chennai,15-12-2019,ODI # 4221
+148,India,West Indies,India,107 runs,Visakhapatnam,18-12-2019,ODI # 4222
+149,India,West Indies,India,4 wickets,Cuttack,22-12-2019,ODI # 4223
+150,Oman,U.A.E.,Oman,5 wickets,Al Amerat,05-01-2020,ODI # 4224
+151,Namibia,U.A.E.,U.A.E.,8 runs,Al Amerat,06-01-2020,ODI # 4225
+152,West Indies,Ireland,West Indies,5 wickets,Bridgetown,07-01-2020,ODI # 4226
+153,Oman,Namibia,Namibia,52 runs,Al Amerat,08-01-2020,ODI # 4227
+154,Namibia,U.A.E.,U.A.E.,8 wickets,Al Amerat,09-01-2020,ODI # 4228
+155,West Indies,Ireland,West Indies,1 wicket,Bridgetown,09-01-2020,ODI # 4229
+156,West Indies,Ireland,West Indies,5 wickets,St George's,12-01-2020,ODI # 4230
+157,India,Australia,Australia,10 wickets,Wankhede,14-01-2020,ODI # 4231
+158,India,Australia,India,36 runs,Rajkot,17-01-2020,ODI # 4232
+159,India,Australia,India,7 wickets,Bengaluru,19-01-2020,ODI # 4233
+160,South Africa,England,South Africa,7 wickets,Cape Town,04-02-2020,ODI # 4234
+161,New Zealand,India,New Zealand,4 wickets,Hamilton,05-02-2020,ODI # 4235
+162,Nepal,Oman,Oman,18 runs,Kirtipur,05-02-2020,ODI # 4236
+163,Oman,U.S.A.,Oman,6 wickets,Kirtipur,06-02-2020,ODI # 4237
+164,South Africa,England,no result,-,Durban,07-02-2020,ODI # 4238
+165,New Zealand,India,New Zealand,22 runs,Auckland,08-02-2020,ODI # 4239
+166,Nepal,U.S.A.,Nepal,35 runs,Kirtipur,08-02-2020,ODI # 4240
+167,Nepal,Oman,Oman,8 wickets,Kirtipur,09-02-2020,ODI # 4241
+168,South Africa,England,England,2 wickets,Johannesburg,09-02-2020,ODI # 4242
+169,New Zealand,India,New Zealand,5 wickets,Mount Maunganui,11-02-2020,ODI # 4243
+170,Oman,U.S.A.,Oman,92 runs,Kirtipur,11-02-2020,ODI # 4244
+171,Nepal,U.S.A.,Nepal,8 wickets,Kirtipur,12-02-2020,ODI # 4245
+172,Sri Lanka,West Indies,Sri Lanka,1 wicket,Colombo (SSC),22-02-2020,ODI # 4246
+173,Sri Lanka,West Indies,Sri Lanka,161 runs,Hambantota,26-02-2020,ODI # 4247
+174,South Africa,Australia,South Africa,74 runs,Paarl,29-02-2020,ODI # 4248
+175,Bangladesh,Zimbabwe,Bangladesh,169 runs,Sylhet,01-03-2020,ODI # 4249
+176,Sri Lanka,West Indies,Sri Lanka,6 runs,Pallekele,01-03-2020,ODI # 4250
+177,Bangladesh,Zimbabwe,Bangladesh,4 runs,Sylhet,03-03-2020,ODI # 4251
+178,South Africa,Australia,South Africa,6 wickets,Bloemfontein,04-03-2020,ODI # 4252
+179,Bangladesh,Zimbabwe,Bangladesh,123 runs,Sylhet,06-03-2020,ODI # 4253
+180,South Africa,Australia,South Africa,6 wickets,Potchefstroom,07-03-2020,ODI # 4254
+181,Australia,New Zealand,Australia,71 runs,Sydney,13-03-2020,ODI # 4255
+182,England,Ireland,England,6 wickets,Southampton,30-07-2020,ODI # 4256
+183,England,Ireland,England,4 wickets,Southampton,01-08-2020,ODI # 4257
+184,England,Ireland,Ireland,7 wickets,Southampton,04-08-2020,ODI # 4258
+185,England,Australia,Australia,19 runs,Manchester,11-09-2020,ODI # 4259
+186,England,Australia,England,24 runs,Manchester,13-09-2020,ODI # 4260
+187,England,Australia,Australia,3 wickets,Manchester,16-09-2020,ODI # 4261
+188,Pakistan,Zimbabwe,Pakistan,26 runs,Rawalpindi,30-10-2020,ODI # 4262
+189,Pakistan,Zimbabwe,Pakistan,6 wickets,Rawalpindi,01-11-2020,ODI # 4263
+190,Pakistan,Zimbabwe,tied,-,Rawalpindi,03-11-2020,ODI # 4264
+191,Australia,India,Australia,66 runs,Sydney,27-11-2020,ODI # 4265
+192,Australia,India,Australia,51 runs,Sydney,29-11-2020,ODI # 4266
+193,Australia,India,India,13 runs,Canberra,02-12-2020,ODI # 4267
+194,U.A.E.,Ireland,U.A.E.,6 wickets,Abu Dhabi,08-01-2021,ODI # 4268
+195,U.A.E.,Ireland,Ireland,112 runs,Abu Dhabi,18-01-2021,ODI # 4269
+196,Bangladesh,West Indies,Bangladesh,6 wickets,Mirpur,20-01-2021,ODI # 4270
+197,Afghanistan,Ireland,Afghanistan,16 runs,Abu Dhabi,21-01-2021,ODI # 4271
+198,Bangladesh,West Indies,Bangladesh,7 wickets,Mirpur,22-01-2021,ODI # 4272
+199,Afghanistan,Ireland,Afghanistan,7 wickets,Abu Dhabi,24-01-2021,ODI # 4273
+200,Bangladesh,West Indies,Bangladesh,120 runs,Chattogram,25-01-2021,ODI # 4274
+201,Afghanistan,Ireland,Afghanistan,36 runs,Abu Dhabi,26-01-2021,ODI # 4275
+202,West Indies,Sri Lanka,West Indies,8 wickets,North Sound,10-03-2021,ODI # 4276
+203,West Indies,Sri Lanka,West Indies,5 wickets,North Sound,12-03-2021,ODI # 4277
+204,West Indies,Sri Lanka,West Indies,5 wickets,North Sound,14-03-2021,ODI # 4278
+205,New Zealand,Bangladesh,New Zealand,8 wickets,Dunedin,20-03-2021,ODI # 4279
+206,New Zealand,Bangladesh,New Zealand,5 wickets,Christchurch,23-03-2021,ODI # 4280
+207,India,England,India,66 runs,Pune,23-03-2021,ODI # 4281
+208,New Zealand,Bangladesh,New Zealand,164 runs,Wellington,26-03-2021,ODI # 4282
+209,India,England,England,6 wickets,Pune,26-03-2021,ODI # 4283
+210,India,England,India,7 runs,Pune,28-03-2021,ODI # 4284
+211,South Africa,Pakistan,Pakistan,3 wickets,Centurion,02-04-2021,ODI # 4285
+212,South Africa,Pakistan,South Africa,17 runs,Johannesburg,04-04-2021,ODI # 4286
+213,South Africa,Pakistan,Pakistan,28 runs,Centurion,07-04-2021,ODI # 4287
+214,Netherlands,Scotland,Netherlands,14 runs,Rotterdam,19-05-2021,ODI # 4288
+215,Netherlands,Scotland,Scotland,6 wickets,Rotterdam,20-05-2021,ODI # 4289
+216,Bangladesh,Sri Lanka,Bangladesh,33 runs,Mirpur,23-05-2021,ODI # 4290
+217,Bangladesh,Sri Lanka,Bangladesh,103 runs,Mirpur,25-05-2021,ODI # 4291
+218,Bangladesh,Sri Lanka,Sri Lanka,97 runs,Mirpur,28-05-2021,ODI # 4292
+219,Netherlands,Ireland,Netherlands,1 run,Utrecht,02-06-2021,ODI # 4293
+220,Netherlands,Ireland,Ireland,8 wickets,Utrecht,04-06-2021,ODI # 4294
+221,Netherlands,Ireland,Netherlands,4 wickets,Utrecht,07-06-2021,ODI # 4295
+222,England,Sri Lanka,England,5 wickets,Chester-le-Street,29-06-2021,ODI # 4296
+223,England,Sri Lanka,England,8 wickets,The Oval,01-07-2021,ODI # 4297
+224,England,Sri Lanka,no result,-,Bristol,04-07-2021,ODI # 4298
+225,England,Pakistan,England,9 wickets,Cardiff,08-07-2021,ODI # 4299
+226,England,Pakistan,England,52 runs,Lord's,10-07-2021,ODI # 4300
+227,Ireland,South Africa,no result,-,Dublin (Malahide),11-07-2021,ODI # 4301
+228,Ireland,South Africa,Ireland,43 runs,Dublin (Malahide),13-07-2021,ODI # 4302
+229,England,Pakistan,England,3 wickets,Birmingham,13-07-2021,ODI # 4303
+230,Zimbabwe,Bangladesh,Bangladesh,155 runs,Harare,16-07-2021,ODI # 4304
+231,Ireland,South Africa,South Africa,70 runs,Dublin (Malahide),16-07-2021,ODI # 4305
+232,Zimbabwe,Bangladesh,Bangladesh,3 wickets,Harare,18-07-2021,ODI # 4306
+233,Sri Lanka,India,India,7 wickets,Colombo (RPS),18-07-2021,ODI # 4307
+234,Zimbabwe,Bangladesh,Bangladesh,5 wickets,Harare,20-07-2021,ODI # 4308
+235,Sri Lanka,India,India,3 wickets,Colombo (RPS),20-07-2021,ODI # 4309
+236,West Indies,Australia,Australia,133 runs,Bridgetown,20-07-2021,ODI # 4310
+237,West Indies,Australia,West Indies,4 wickets,Bridgetown,24-07-2021,ODI # 4311
+238,Sri Lanka,India,Sri Lanka,3 wickets,Colombo (RPS),23-07-2021,ODI # 4312
+239,West Indies,Australia,Australia,6 wickets,Bridgetown,26-07-2021,ODI # 4313
+240,Sri Lanka,South Africa,Sri Lanka,14 runs,Colombo (RPS),02-09-2021,ODI # 4314
+241,Sri Lanka,South Africa,South Africa,67 runs,Colombo (RPS),04-09-2021,ODI # 4315
+242,P.N.G.,U.S.A.,U.S.A.,7 wickets,Al Amerat,06-09-2021,ODI # 4316
+243,Nepal,P.N.G.,Nepal,2 wickets,Al Amerat,07-09-2021,ODI # 4317
+244,Sri Lanka,South Africa,Sri Lanka,78 runs,Colombo (RPS),07-09-2021,ODI # 4318
+245,Ireland,Zimbabwe,Zimbabwe,38 runs,Belfast,08-09-2021,ODI # 4319
+246,P.N.G.,U.S.A.,U.S.A.,134 runs,Al Amerat,09-09-2021,ODI # 4320
+247,Ireland,Zimbabwe,no result,-,Belfast,10-09-2021,ODI # 4321
+248,Nepal,P.N.G.,Nepal,151 runs,Al Amerat,10-09-2021,ODI # 4322
+249,Ireland,Zimbabwe,Ireland,7 wickets,Belfast,13-09-2021,ODI # 4323
+250,Nepal,U.S.A.,Nepal,5 wickets,Al Amerat,13-09-2021,ODI # 4324
+251,Oman,Nepal,Oman,5 wickets,Al Amerat,14-09-2021,ODI # 4325
+252,Oman,U.S.A.,Oman,4 wickets,Al Amerat,16-09-2021,ODI # 4326
+253,Nepal,U.S.A.,U.S.A.,6 wickets,Al Amerat,17-09-2021,ODI # 4327
+254,Oman,Nepal,Nepal,7 wickets,Al Amerat,19-09-2021,ODI # 4328
+255,Oman,U.S.A.,Oman,72 runs,Al Amerat,20-09-2021,ODI # 4329
+256,P.N.G.,Scotland,Scotland,6 wickets,Al Amerat,25-09-2021,ODI # 4330
+257,Oman,P.N.G.,Oman,110 runs,Al Amerat,26-09-2021,ODI # 4331
+258,Oman,Scotland,Scotland,18 runs,Al Amerat,28-09-2021,ODI # 4332
+259,P.N.G.,Scotland,Scotland,4 wickets,Al Amerat,29-09-2021,ODI # 4333
+260,Oman,P.N.G.,Oman,3 wickets,Al Amerat,01-10-2021,ODI # 4334
+261,Oman,Scotland,no result,-,Al Amerat,02-10-2021,ODI # 4335
+262,Namibia,Oman,Namibia,40 runs,Windhoek,26-11-2021,ODI # 4336
+263,South Africa,Netherlands,no result,-,Centurion,26-11-2021,ODI # 4337
+264,Namibia,Oman,Oman,9 runs,Windhoek,27-11-2021,ODI # 4338
+265,West Indies,Ireland,West Indies,24 runs,Kingston,08-01-2022,ODI # 4339
+266,West Indies,Ireland,Ireland,5 wickets,Kingston,13-01-2022,ODI # 4340
+267,Sri Lanka,Zimbabwe,Sri Lanka,5 wickets,Pallekele,16-01-2022,ODI # 4341
+268,West Indies,Ireland,Ireland,2 wickets,Kingston,16-01-2022,ODI # 4342
+269,Sri Lanka,Zimbabwe,Zimbabwe,22 runs,Pallekele,18-01-2022,ODI # 4343
+270,South Africa,India,South Africa,31 runs,Paarl,19-01-2022,ODI # 4344
+271,Afghanistan,Netherlands,Afghanistan,36 runs,Doha,21-01-2022,ODI # 4345
+272,South Africa,India,South Africa,7 wickets,Paarl,21-01-2022,ODI # 4346
+273,Sri Lanka,Zimbabwe,Sri Lanka,184 runs,Pallekele,21-01-2022,ODI # 4347
+274,Afghanistan,Netherlands,Afghanistan,48 runs,Doha,23-01-2022,ODI # 4348
+275,South Africa,India,South Africa,4 runs,Cape Town,23-01-2022,ODI # 4349
+276,Afghanistan,Netherlands,Afghanistan,75 runs,Doha,25-01-2022,ODI # 4350
+277,Oman,U.A.E.,U.A.E.,4 wickets,Al Amerat,05-02-2022,ODI # 4351
+278,Oman,U.A.E.,U.A.E.,4 wickets,Al Amerat,06-02-2022,ODI # 4352
+279,India,West Indies,India,6 wickets,Ahmedabad,06-02-2022,ODI # 4353
+280,Oman,U.A.E.,tied,-,Al Amerat,08-02-2022,ODI # 4354
+281,India,West Indies,India,44 runs,Ahmedabad,09-02-2022,ODI # 4355
+282,India,West Indies,India,96 runs,Ahmedabad,11-02-2022,ODI # 4356
+283,Bangladesh,Afghanistan,Bangladesh,4 wickets,Chattogram,23-02-2022,ODI # 4357
+284,Bangladesh,Afghanistan,Bangladesh,88 runs,Chattogram,25-02-2022,ODI # 4358
+285,Bangladesh,Afghanistan,Afghanistan,7 wickets,Chattogram,28-02-2022,ODI # 4359
+286,U.A.E.,Oman,Oman,12 runs,ICCA Dubai,05-03-2022,ODI # 4360
+287,Namibia,Oman,Namibia,110 runs,ICCA Dubai,06-03-2022,ODI # 4361
+288,U.A.E.,Namibia,U.A.E.,3 wickets,ICCA Dubai,08-03-2022,ODI # 4362
+289,U.A.E.,Oman,Oman,8 runs,ICCA Dubai,09-03-2022,ODI # 4363
+290,Namibia,Oman,Oman,7 wickets,Sharjah,11-03-2022,ODI # 4364
+291,U.A.E.,Namibia,U.A.E.,43 runs,Sharjah,12-03-2022,ODI # 4365
+292,Namibia,Oman,Namibia,5 wickets,Dubai (DSC),14-03-2022,ODI # 4366
+293,U.A.E.,P.N.G.,U.A.E.,7 wickets,Sharjah,15-03-2022,ODI # 4367
+294,Nepal,P.N.G.,Nepal,2 wickets,Sharjah,16-03-2022,ODI # 4368
+295,U.A.E.,Nepal,U.A.E.,48 runs,Dubai (DSC),18-03-2022,ODI # 4369
+296,South Africa,Bangladesh,Bangladesh,38 runs,Centurion,18-03-2022,ODI # 4370
+297,U.A.E.,P.N.G.,P.N.G.,6 wickets,Dubai (DSC),19-03-2022,ODI # 4371
+298,South Africa,Bangladesh,South Africa,7 wickets,Johannesburg,20-03-2022,ODI # 4372
+299,U.A.E.,Nepal,U.A.E.,99 runs,Dubai (DSC),21-03-2022,ODI # 4373
+300,Nepal,P.N.G.,Nepal,7 wickets,Dubai (DSC),22-03-2022,ODI # 4374
+301,South Africa,Bangladesh,Bangladesh,9 wickets,Centurion,23-03-2022,ODI # 4375
+302,Nepal,P.N.G.,P.N.G.,6 runs,Kirtipur,25-03-2022,ODI # 4376
+303,Nepal,P.N.G.,P.N.G.,3 wickets,Kirtipur,26-03-2022,ODI # 4377
+304,New Zealand,Netherlands,New Zealand,7 wickets,Mount Maunganui,29-03-2022,ODI # 4378
+305,Pakistan,Australia,Australia,88 runs,Lahore,29-03-2022,ODI # 4379
+306,Pakistan,Australia,Pakistan,6 wickets,Lahore,31-03-2022,ODI # 4380
+307,New Zealand,Netherlands,New Zealand,118 runs,Hamilton,02-04-2022,ODI # 4381
+308,Pakistan,Australia,Pakistan,9 wickets,Lahore,02-04-2022,ODI # 4382
+309,New Zealand,Netherlands,New Zealand,115 runs,Hamilton,04-04-2022,ODI # 4383
+310,P.N.G.,Scotland,Scotland,162 runs,Dubai (DSC),09-04-2022,ODI # 4384
+311,Oman,Scotland,Scotland,4 runs,Dubai (DSC),10-04-2022,ODI # 4385
+312,Oman,P.N.G.,Oman,7 wickets,Dubai (DSC),12-04-2022,ODI # 4386
+313,P.N.G.,Scotland,Scotland,123 runs,Dubai (DSC),13-04-2022,ODI # 4387
+314,Oman,Scotland,Scotland,2 wickets,Dubai (DSC),15-04-2022,ODI # 4388
+315,Oman,P.N.G.,Oman,85 runs,Dubai (DSC),16-04-2022,ODI # 4389
+316,U.S.A.,Scotland,U.S.A.,104 runs,Pearland,28-05-2022,ODI # 4390
+317,U.S.A.,Scotland,Scotland,111 runs,Pearland,29-05-2022,ODI # 4391
+318,Netherlands,West Indies,West Indies,7 wickets,Amstelveen,31-05-2022,ODI # 4392
+319,Scotland,U.A.E.,Scotland,4 wickets,Pearland,31-05-2022,ODI # 4393
+320,U.S.A.,U.A.E.,U.S.A.,4 wickets,Pearland,01-06-2022,ODI # 4394
+321,Netherlands,West Indies,West Indies,5 wickets,Amstelveen,02-06-2022,ODI # 4395
+322,Scotland,U.A.E.,U.A.E.,5 wickets,Pearland,03-06-2022,ODI # 4396
+323,Zimbabwe,Afghanistan,Afghanistan,60 runs,Harare,04-06-2022,ODI # 4397
+324,Netherlands,West Indies,West Indies,20 runs,Amstelveen,04-06-2022,ODI # 4398
+325,U.S.A.,U.A.E.,U.A.E.,8 wickets,Pearland,04-06-2022,ODI # 4399
+326,Zimbabwe,Afghanistan,Afghanistan,8 wickets,Harare,06-06-2022,ODI # 4400
+327,Pakistan,West Indies,Pakistan,5 wickets,Multan,08-06-2022,ODI # 4401
+328,U.S.A.,Oman,U.S.A.,114 runs,Pearland,08-06-2022,ODI # 4402
+329,Zimbabwe,Afghanistan,Afghanistan,4 wickets,Harare,09-06-2022,ODI # 4403
+330,Nepal,Oman,Oman,13 runs,Pearland,09-06-2022,ODI # 4404
+331,Pakistan,West Indies,Pakistan,120 runs,Multan,10-06-2022,ODI # 4405
+332,U.S.A.,Nepal,tied,-,Pearland,11-06-2022,ODI # 4406
+333,Pakistan,West Indies,Pakistan,53 runs,Multan,12-06-2022,ODI # 4407
+334,U.S.A.,Oman,Oman,13 runs,Pearland,12-06-2022,ODI # 4408
+335,Sri Lanka,Australia,Australia,2 wickets,Pallekele,14-06-2022,ODI # 4409
+336,Nepal,Oman,Nepal,7 wickets,Pearland,14-06-2022,ODI # 4410
+337,U.S.A.,Nepal,U.S.A.,39 runs,Pearland,15-06-2022,ODI # 4411
+338,Sri Lanka,Australia,Sri Lanka,26 runs,Pallekele,16-06-2022,ODI # 4412
+339,Netherlands,England,England,232 runs,Amstelveen,17-06-2022,ODI # 4413
+340,Netherlands,England,England,6 wickets,Amstelveen,19-06-2022,ODI # 4414
+341,Sri Lanka,Australia,Sri Lanka,6 wickets,Colombo (RPS),19-06-2022,ODI # 4415
+342,Sri Lanka,Australia,Sri Lanka,4 runs,Colombo (RPS),21-06-2022,ODI # 4416
+343,Netherlands,England,England,8 wickets,Amstelveen,22-06-2022,ODI # 4417
+344,Sri Lanka,Australia,Australia,4 wickets,Colombo (RPS),24-06-2022,ODI # 4418
+345,Ireland,New Zealand,New Zealand,1 wicket,Dublin (Malahide),10-07-2022,ODI # 4419
+346,Scotland,Namibia,Scotland,77 runs,Glasgow,10-07-2022,ODI # 4420
+347,West Indies,Bangladesh,Bangladesh,6 wickets,Providence,10-07-2022,ODI # 4421
+348,Namibia,Nepal,Namibia,40 runs,Ayr,11-07-2022,ODI # 4422
+349,Ireland,New Zealand,New Zealand,3 wickets,Dublin (Malahide),12-07-2022,ODI # 4423
+350,England,India,India,10 wickets,The Oval,12-07-2022,ODI # 4424
+351,Scotland,Nepal,Nepal,5 wickets,Glasgow,13-07-2022,ODI # 4425
+352,West Indies,Bangladesh,Bangladesh,9 wickets,Providence,13-07-2022,ODI # 4426
+353,Scotland,Namibia,Scotland,3 wickets,Glasgow,14-07-2022,ODI # 4427
+354,England,India,England,100 runs,Lord's,14-07-2022,ODI # 4428
+355,Ireland,New Zealand,New Zealand,1 run,Dublin (Malahide),15-07-2022,ODI # 4429
+356,Namibia,Nepal,Namibia,63 runs,Ayr,16-07-2022,ODI # 4430
+357,West Indies,Bangladesh,Bangladesh,4 wickets,Providence,16-07-2022,ODI # 4431
+358,Scotland,Nepal,Scotland,8 wickets,Glasgow,17-07-2022,ODI # 4432
+359,England,India,India,5 wickets,Manchester,17-07-2022,ODI # 4433
+360,England,South Africa,South Africa,62 runs,Chester-le-Street,19-07-2022,ODI # 4434
+361,England,South Africa,England,118 runs,Manchester,22-07-2022,ODI # 4435
+362,West Indies,India,India,3 runs,Port of Spain,22-07-2022,ODI # 4436
+363,England,South Africa,no result,-,Leeds,24-07-2022,ODI # 4437
+364,West Indies,India,India,2 wickets,Port of Spain,24-07-2022,ODI # 4438
+365,West Indies,India,India,119 runs,Port of Spain,27-07-2022,ODI # 4439
+366,Scotland,New Zealand,New Zealand,7 wickets,Edinburgh,31-07-2022,ODI # 4440
+367,Zimbabwe,Bangladesh,Zimbabwe,5 wickets,Harare,05-08-2022,ODI # 4441
+368,Zimbabwe,Bangladesh,Zimbabwe,5 wickets,Harare,07-08-2022,ODI # 4442
+369,Zimbabwe,Bangladesh,Bangladesh,105 runs,Harare,10-08-2022,ODI # 4443
+370,Scotland,U.A.E.,Scotland,64 runs,Aberdeen,10-08-2022,ODI # 4444
+371,U.A.E.,U.S.A.,U.S.A.,1 wicket,Aberdeen,11-08-2022,ODI # 4445
+372,Scotland,U.S.A.,Scotland,5 wickets,Aberdeen,13-08-2022,ODI # 4446
+373,Scotland,U.A.E.,Scotland,86 runs,Aberdeen,14-08-2022,ODI # 4447
+374,Netherlands,Pakistan,Pakistan,16 runs,Rotterdam,16-08-2022,ODI # 4448
+375,Scotland,U.S.A.,U.S.A.,2 wickets,Aberdeen,17-08-2022,ODI # 4449
+376,West Indies,New Zealand,West Indies,5 wickets,Bridgetown,17-08-2022,ODI # 4450
+377,Zimbabwe,India,India,10 wickets,Harare,18-08-2022,ODI # 4451
+378,Netherlands,Pakistan,Pakistan,7 wickets,Rotterdam,18-08-2022,ODI # 4452
+379,West Indies,New Zealand,New Zealand,50 runs,Bridgetown,19-08-2022,ODI # 4453
+380,Zimbabwe,India,India,5 wickets,Harare,20-08-2022,ODI # 4454
+381,Netherlands,Pakistan,Pakistan,9 runs,Rotterdam,21-08-2022,ODI # 4455
+382,West Indies,New Zealand,New Zealand,5 wickets,Bridgetown,21-08-2022,ODI # 4456
+383,Zimbabwe,India,India,13 runs,Harare,22-08-2022,ODI # 4457
+384,Australia,Zimbabwe,Australia,5 wickets,Townsville,28-08-2022,ODI # 4458
+385,Australia,Zimbabwe,Australia,8 wickets,Townsville,31-08-2022,ODI # 4459
+386,Australia,Zimbabwe,Zimbabwe,3 wickets,Townsville,03-09-2022,ODI # 4460
+387,Australia,New Zealand,Australia,2 wickets,Cairns,06-09-2022,ODI # 4461
+388,Australia,New Zealand,Australia,113 runs,Cairns,08-09-2022,ODI # 4462
+389,P.N.G.,U.S.A.,tied,-,Port Moresby,11-09-2022,ODI # 4463
+390,Australia,New Zealand,Australia,25 runs,Cairns,11-09-2022,ODI # 4464
+391,P.N.G.,U.S.A.,P.N.G.,26 runs,Port Moresby,13-09-2022,ODI # 4465
+392,Namibia,U.S.A.,Namibia,79 runs,Port Moresby,15-09-2022,ODI # 4466
+393,Namibia,U.S.A.,Namibia,68 runs,Port Moresby,17-09-2022,ODI # 4467
+394,P.N.G.,Namibia,Namibia,167 runs,Port Moresby,20-09-2022,ODI # 4468
+395,P.N.G.,Namibia,Namibia,61 runs,Port Moresby,21-09-2022,ODI # 4469
+396,India,South Africa,South Africa,9 runs,Lucknow,06-10-2022,ODI # 4470
+397,India,South Africa,India,7 wickets,Ranchi,09-10-2022,ODI # 4471
+398,India,South Africa,India,7 wickets,Delhi,11-10-2022,ODI # 4472
+399,Nepal,U.A.E.,U.A.E.,84 runs,Kirtipur,14-11-2022,ODI # 4473
+400,Nepal,U.A.E.,Nepal,3 wickets,Kirtipur,16-11-2022,ODI # 4474
+401,Australia,England,Australia,6 wickets,Adelaide,17-11-2022,ODI # 4475
+402,Nepal,U.A.E.,Nepal,6 wickets,Kirtipur,18-11-2022,ODI # 4476
+403,Australia,England,Australia,72 runs,Sydney,19-11-2022,ODI # 4477
+404,Namibia,P.N.G.,Namibia,8 wickets,Windhoek,19-11-2022,ODI # 4478
+405,Namibia,U.S.A.,U.S.A.,71 runs,Windhoek,20-11-2022,ODI # 4479
+406,Australia,England,Australia,221 runs,Melbourne,22-11-2022,ODI # 4480
+407,P.N.G.,U.S.A.,U.S.A.,6 wickets,Windhoek,22-11-2022,ODI # 4481
+408,Namibia,P.N.G.,Namibia,3 wickets,Windhoek,23-11-2022,ODI # 4482
+409,New Zealand,India,New Zealand,7 wickets,Auckland,25-11-2022,ODI # 4483
+410,P.N.G.,U.S.A.,U.S.A.,35 runs,Windhoek,25-11-2022,ODI # 4484
+411,Sri Lanka,Afghanistan,Afghanistan,60 runs,Pallekele,25-11-2022,ODI # 4485
+412,Namibia,U.S.A.,Namibia,6 wickets,Windhoek,26-11-2022,ODI # 4486
+413,New Zealand,India,no result,-,Hamilton,27-11-2022,ODI # 4487
+414,Sri Lanka,Afghanistan,no result,-,Pallekele,27-11-2022,ODI # 4488
+415,New Zealand,India,no result,-,Christchurch,30-11-2022,ODI # 4489
+416,Sri Lanka,Afghanistan,Sri Lanka,4 wickets,Pallekele,30-11-2022,ODI # 4490
+417,Namibia,Scotland,Scotland,4 wickets,Windhoek,01-12-2022,ODI # 4491
+418,Namibia,Nepal,no result,-,Windhoek,02-12-2022,ODI # 4492
+419,Bangladesh,India,Bangladesh,1 wicket,Mirpur,04-12-2022,ODI # 4493
+420,Nepal,Scotland,Scotland,3 wickets,Windhoek,04-12-2022,ODI # 4494
+421,Namibia,Scotland,Namibia,3 wickets,Windhoek,05-12-2022,ODI # 4495
+422,Bangladesh,India,Bangladesh,5 runs,Mirpur,07-12-2022,ODI # 4496
+423,Namibia,Nepal,Namibia,86 runs,Windhoek,07-12-2022,ODI # 4497
+424,Nepal,Scotland,Scotland,8 wickets,Windhoek,08-12-2022,ODI # 4498
+425,Bangladesh,India,India,227 runs,Chattogram,10-12-2022,ODI # 4499
+426,Pakistan,New Zealand,Pakistan,6 wickets,Karachi,09-01-2023,ODI # 4500
+427,India,Sri Lanka,India,67 runs,Guwahati,10-01-2023,ODI # 4501
+428,Pakistan,New Zealand,New Zealand,79 runs,Karachi,11-01-2023,ODI # 4502
+429,India,Sri Lanka,India,4 wickets,Eden Gardens,12-01-2023,ODI # 4503
+430,Pakistan,New Zealand,New Zealand,2 wickets,Karachi,13-01-2023,ODI # 4504
+431,India,Sri Lanka,India,317 runs,Thiruvananthapuram,15-01-2023,ODI # 4505
+432,Zimbabwe,Ireland,Zimbabwe,3 wickets,Harare,18-01-2023,ODI # 4506
+433,India,New Zealand,India,12 runs,Hyderabad,18-01-2023,ODI # 4507
+434,Zimbabwe,Ireland,Ireland,46 runs,Harare,21-01-2023,ODI # 4508
+435,India,New Zealand,India,8 wickets,Raipur,21-01-2023,ODI # 4509
+436,Zimbabwe,Ireland,no result,-,Harare,23-01-2023,ODI # 4510
+437,India,New Zealand,India,90 runs,Indore,24-01-2023,ODI # 4511
+438,South Africa,England,South Africa,27 runs,Bloemfontein,27-01-2023,ODI # 4512
+439,South Africa,England,South Africa,5 wickets,Bloemfontein,29-01-2023,ODI # 4513
+440,South Africa,England,England,59 runs,Kimberley,01-02-2023,ODI # 4514
+441,Nepal,Namibia,Nepal,2 wickets,Kirtipur,14-02-2023,ODI # 4515
+442,Namibia,Scotland,Scotland,10 wickets,Kirtipur,15-02-2023,ODI # 4516
+443,Nepal,Scotland,Nepal,3 wickets,Kirtipur,17-02-2023,ODI # 4517
+444,Nepal,Namibia,Nepal,3 wickets,Kirtipur,18-02-2023,ODI # 4518
+445,Namibia,Scotland,Scotland,43 runs,Kirtipur,20-02-2023,ODI # 4519
+446,Nepal,Scotland,Nepal,2 wickets,Kirtipur,21-02-2023,ODI # 4520
+447,U.A.E.,Namibia,U.A.E.,1 wicket,Dubai (DSC),23-02-2023,ODI # 4521
+448,U.A.E.,Namibia,Namibia,7 wickets,Dubai (DSC),25-02-2023,ODI # 4522
+449,Nepal,P.N.G.,Nepal,4 wickets,Dubai (DSC),27-02-2023,ODI # 4523
+450,U.A.E.,P.N.G.,P.N.G.,131 runs,Dubai (DSC),28-02-2023,ODI # 4524
+451,Bangladesh,England,England,3 wickets,Mirpur,01-03-2023,ODI # 4525
+452,U.A.E.,Nepal,U.A.E.,68 runs,Dubai (DSC),02-03-2023,ODI # 4526
+453,Nepal,P.N.G.,Nepal,3 wickets,Dubai (DSC),03-03-2023,ODI # 4527
+454,Bangladesh,England,England,132 runs,Mirpur,03-03-2023,ODI # 4528
+455,U.A.E.,P.N.G.,P.N.G.,5 wickets,Dubai (DSC),05-03-2023,ODI # 4529
+456,U.A.E.,Nepal,Nepal,42 runs,Dubai (DSC),06-03-2023,ODI # 4530
+457,Bangladesh,England,Bangladesh,50 runs,Chattogram,06-03-2023,ODI # 4531
+458,Nepal,P.N.G.,Nepal,52 runs,Kirtipur,09-03-2023,ODI # 4532
+459,P.N.G.,U.A.E.,P.N.G.,56 runs,Kirtipur,10-03-2023,ODI # 4533
+460,Nepal,U.A.E.,Nepal,177 runs,Kirtipur,12-03-2023,ODI # 4534
+461,Nepal,P.N.G.,Nepal,9 wickets,Kirtipur,13-03-2023,ODI # 4535
+462,P.N.G.,U.A.E.,U.A.E.,6 wickets,Kirtipur,15-03-2023,ODI # 4536
+463,Nepal,U.A.E.,Nepal,9 runs,Kirtipur,16-03-2023,ODI # 4537
+464,India,Australia,India,5 wickets,Wankhede,17-03-2023,ODI # 4538
+465,Bangladesh,Ireland,Bangladesh,183 runs,Sylhet,18-03-2023,ODI # 4539
+466,South Africa,West Indies,West Indies,48 runs,East London,18-03-2023,ODI # 4540
+467,India,Australia,Australia,10 wickets,Visakhapatnam,19-03-2023,ODI # 4541
+468,Bangladesh,Ireland,no result,-,Sylhet,20-03-2023,ODI # 4542
+469,Zimbabwe,Netherlands,Netherlands,3 wickets,Harare,21-03-2023,ODI # 4543
+470,South Africa,West Indies,South Africa,4 wickets,Potchefstroom,21-03-2023,ODI # 4544
+471,India,Australia,Australia,21 runs,Chennai,22-03-2023,ODI # 4545
+472,Zimbabwe,Netherlands,Zimbabwe,1 run,Harare,23-03-2023,ODI # 4546
+473,Bangladesh,Ireland,Bangladesh,10 wickets,Sylhet,23-03-2023,ODI # 4547
+474,New Zealand,Sri Lanka,New Zealand,198 runs,Auckland,25-03-2023,ODI # 4548
+475,Zimbabwe,Netherlands,Zimbabwe,7 wickets,Harare,25-03-2023,ODI # 4549
+476,Namibia,U.S.A.,U.S.A.,80 runs,Windhoek,26-03-2023,ODI # 4550
+477,P.N.G.,U.A.E.,U.A.E.,21 runs,Windhoek,27-03-2023,ODI # 4551
+478,Canada,Jersey,Canada,31 runs,Windhoek,27-03-2023,ODI # 4552
+479,Canada,U.S.A.,Canada,26 runs,Windhoek,29-03-2023,ODI # 4553
+480,Namibia,P.N.G.,Namibia,48 runs,Windhoek,29-03-2023,ODI # 4554
+481,Namibia,Jersey,Namibia,8 wickets,Windhoek,30-03-2023,ODI # 4555
+482,U.A.E.,U.S.A.,U.S.A.,5 wickets,Windhoek,30-03-2023,ODI # 4556
+483,New Zealand,Sri Lanka,New Zealand,6 wickets,Hamilton,31-03-2023,ODI # 4557
+484,South Africa,Netherlands,South Africa,8 wickets,Benoni,31-03-2023,ODI # 4558
+485,Canada,U.A.E.,U.A.E.,6 wickets,Windhoek,01-04-2023,ODI # 4559
+486,Jersey,P.N.G.,Jersey,11 runs,Windhoek,01-04-2023,ODI # 4560
+487,P.N.G.,U.S.A.,U.S.A.,117 runs,Windhoek,02-04-2023,ODI # 4561
+488,Namibia,U.A.E.,U.A.E.,28 runs,Windhoek,02-04-2023,ODI # 4562
+489,South Africa,Netherlands,South Africa,146 runs,Johannesburg,02-04-2023,ODI # 4563
+490,Namibia,Canada,Namibia,111 runs,Windhoek,04-04-2023,ODI # 4564
+491,Jersey,U.S.A.,U.S.A.,25 runs,Windhoek,04-04-2023,ODI # 4565
+492,Jersey,U.A.E.,U.A.E.,66 runs,Windhoek,05-04-2023,ODI # 4566
+493,Canada,P.N.G.,Canada,90 runs,Windhoek,05-04-2023,ODI # 4567
+494,Nepal,Oman,Nepal,84 runs,Kirtipur,21-04-2023,ODI # 4568
+495,Pakistan,New Zealand,Pakistan,5 wickets,Rawalpindi,27-04-2023,ODI # 4569
+496,Oman,U.A.E.,U.A.E.,2 runs,Mulpani,29-04-2023,ODI # 4570
+497,Pakistan,New Zealand,Pakistan,7 wickets,Rawalpindi,29-04-2023,ODI # 4571
+498,Nepal,U.A.E.,Nepal,7 wickets,Kirtipur,01-05-2023,ODI # 4572
+499,Pakistan,New Zealand,Pakistan,26 runs,Karachi,03-05-2023,ODI # 4573
+500,Pakistan,New Zealand,Pakistan,102 runs,Karachi,05-05-2023,ODI # 4574
+501,Pakistan,New Zealand,New Zealand,47 runs,Karachi,07-05-2023,ODI # 4575
+502,Bangladesh,Ireland,no result,-,Chelmsford,09-05-2023,ODI # 4576
+503,Bangladesh,Ireland,Bangladesh,3 wickets,Chelmsford,12-05-2023,ODI # 4577
+504,Bangladesh,Ireland,Bangladesh,5 runs,Chelmsford,14-05-2023,ODI # 4578
+505,Sri Lanka,Afghanistan,Afghanistan,6 wickets,Hambantota,02-06-2023,ODI # 4579
+506,Sri Lanka,Afghanistan,Sri Lanka,132 runs,Hambantota,04-06-2023,ODI # 4580
+507,U.A.E.,West Indies,West Indies,7 wickets,Sharjah,04-06-2023,ODI # 4581
+508,U.A.E.,West Indies,West Indies,78 runs,Sharjah,06-06-2023,ODI # 4582
+509,Sri Lanka,Afghanistan,Sri Lanka,9 wickets,Hambantota,07-06-2023,ODI # 4583
+510,U.A.E.,West Indies,West Indies,4 wickets,Sharjah,09-06-2023,ODI # 4584
+511,Zimbabwe,Nepal,Zimbabwe,8 wickets,Harare,18-06-2023,ODI # 4585
+512,U.S.A.,West Indies,West Indies,39 runs,Harare,18-06-2023,ODI # 4586
+513,Sri Lanka,U.A.E.,Sri Lanka,175 runs,Bulawayo,19-06-2023,ODI # 4587
+514,Ireland,Oman,Oman,5 wickets,Bulawayo,19-06-2023,ODI # 4588
+515,Zimbabwe,Netherlands,Zimbabwe,6 wickets,Harare,20-06-2023,ODI # 4589
+516,Nepal,U.S.A.,Nepal,6 wickets,Harare,20-06-2023,ODI # 4590
+517,Ireland,Scotland,Scotland,1 wicket,Bulawayo,21-06-2023,ODI # 4591
+518,Oman,U.A.E.,Oman,5 wickets,Bulawayo,21-06-2023,ODI # 4592
+519,Nepal,West Indies,West Indies,101 runs,Harare,22-06-2023,ODI # 4593
+520,Netherlands,U.S.A.,Netherlands,5 wickets,Harare,22-06-2023,ODI # 4594
+521,Oman,Sri Lanka,Sri Lanka,10 wickets,Bulawayo,23-06-2023,ODI # 4595
+522,Scotland,U.A.E.,Scotland,111 runs,Bulawayo,23-06-2023,ODI # 4596
+523,Zimbabwe,West Indies,Zimbabwe,35 runs,Harare,24-06-2023,ODI # 4597
+524,Nepal,Netherlands,Netherlands,7 wickets,Harare,24-06-2023,ODI # 4598
+525,Ireland,Sri Lanka,Sri Lanka,133 runs,Bulawayo,25-06-2023,ODI # 4599
+526,Oman,Scotland,Scotland,76 runs,Bulawayo,25-06-2023,ODI # 4600
+527,Zimbabwe,U.S.A.,Zimbabwe,304 runs,Harare,26-06-2023,ODI # 4601
+528,Netherlands,West Indies,tied,-,Harare,26-06-2023,ODI # 4602
+529,Scotland,Sri Lanka,Sri Lanka,82 runs,Bulawayo,27-06-2023,ODI # 4603
+530,Ireland,U.A.E.,Ireland,138 runs,Bulawayo,27-06-2023,ODI # 4604
+531,Zimbabwe,Oman,Zimbabwe,14 runs,Bulawayo,29-06-2023,ODI # 4605
+532,Netherlands,Sri Lanka,Sri Lanka,21 runs,Bulawayo,30-06-2023,ODI # 4606
+533,Ireland,U.S.A.,Ireland,6 wickets,Harare,30-06-2023,ODI # 4607
+534,Scotland,West Indies,Scotland,7 wickets,Harare,01-07-2023,ODI # 4608
+535,Zimbabwe,Sri Lanka,Sri Lanka,9 wickets,Bulawayo,02-07-2023,ODI # 4609
+536,Nepal,U.A.E.,Nepal,3 wickets,Harare,02-07-2023,ODI # 4610
+537,Netherlands,Oman,Netherlands,74 runs,Harare,03-07-2023,ODI # 4611
+538,Zimbabwe,Scotland,Scotland,31 runs,Bulawayo,04-07-2023,ODI # 4612
+539,Ireland,Nepal,Ireland,2 wickets,Harare,04-07-2023,ODI # 4613
+540,Oman,West Indies,West Indies,7 wickets,Harare,05-07-2023,ODI # 4614
+541,Bangladesh,Afghanistan,Afghanistan,17 runs,Chattogram,05-07-2023,ODI # 4615
+542,Netherlands,Scotland,Netherlands,4 wickets,Bulawayo,06-07-2023,ODI # 4616
+543,U.A.E.,U.S.A.,U.A.E.,1 run,Harare,06-07-2023,ODI # 4617
+544,Sri Lanka,West Indies,Sri Lanka,8 wickets,Harare,07-07-2023,ODI # 4618
+545,Bangladesh,Afghanistan,Afghanistan,142 runs,Chattogram,08-07-2023,ODI # 4619
+546,Netherlands,Sri Lanka,Sri Lanka,128 runs,Harare,09-07-2023,ODI # 4620
+547,Bangladesh,Afghanistan,Bangladesh,7 wickets,Chattogram,11-07-2023,ODI # 4621
+548,West Indies,India,India,5 wickets,Bridgetown,27-07-2023,ODI # 4622
+549,West Indies,India,West Indies,6 wickets,Bridgetown,29-07-2023,ODI # 4623
+550,West Indies,India,India,200 runs,Tarouba,01-08-2023,ODI # 4624
+551,New Zealand,Pakistan,New Zealand,61 runs,Wellington,06-01-2018,ODI # 3946
+552,New Zealand,Pakistan,New Zealand,8 wickets,Nelson,09-01-2018,ODI # 3947
+553,U.A.E.,Ireland,Ireland,4 wickets,ICCA Dubai,11-01-2018,ODI # 3948
+554,New Zealand,Pakistan,New Zealand,183 runs,Dunedin,13-01-2018,ODI # 3949
+555,U.A.E.,Ireland,Ireland,67 runs,ICCA Dubai,13-01-2018,ODI # 3950
+556,Australia,England,England,5 wickets,Melbourne,14-01-2018,ODI # 3951
+557,Bangladesh,Zimbabwe,Bangladesh,8 wickets,Mirpur,15-01-2018,ODI # 3952
+558,New Zealand,Pakistan,New Zealand,5 wickets,Hamilton,16-01-2018,ODI # 3953
+559,Ireland,Scotland,Ireland,6 wickets,ICCA Dubai,16-01-2018,ODI # 3954
+560,Sri Lanka,Zimbabwe,Zimbabwe,12 runs,Mirpur,17-01-2018,ODI # 3955
+561,Ireland,Scotland,Ireland,24 runs,ICCA Dubai,18-01-2018,ODI # 3956
+562,New Zealand,Pakistan,New Zealand,15 runs,Wellington,19-01-2018,ODI # 3957
+563,Australia,England,England,4 wickets,Brisbane,19-01-2018,ODI # 3958
+564,Bangladesh,Sri Lanka,Bangladesh,163 runs,Mirpur,19-01-2018,ODI # 3959
+565,Australia,England,England,16 runs,Sydney,21-01-2018,ODI # 3960
+566,U.A.E.,Scotland,Scotland,31 runs,ICCA Dubai,21-01-2018,ODI # 3961
+567,Sri Lanka,Zimbabwe,Sri Lanka,5 wickets,Mirpur,21-01-2018,ODI # 3962
+568,U.A.E.,Scotland,U.A.E.,4 wickets,ICCA Dubai,23-01-2018,ODI # 3963
+569,Bangladesh,Zimbabwe,Bangladesh,91 runs,Mirpur,23-01-2018,ODI # 3964
+570,Bangladesh,Sri Lanka,Sri Lanka,10 wickets,Mirpur,25-01-2018,ODI # 3965
+571,Australia,England,Australia,3 wickets,Adelaide,26-01-2018,ODI # 3966
+572,Bangladesh,Sri Lanka,Sri Lanka,79 runs,Mirpur,27-01-2018,ODI # 3967
+573,Australia,England,England,12 runs,Perth,28-01-2018,ODI # 3968
+574,South Africa,India,India,6 wickets,Durban,01-02-2018,ODI # 3969
+575,South Africa,India,India,9 wickets,Centurion,04-02-2018,ODI # 3970
+576,South Africa,India,India,124 runs,Cape Town,07-02-2018,ODI # 3971
+577,Afghanistan,Zimbabwe,Afghanistan,154 runs,Sharjah,09-02-2018,ODI # 3972
+578,South Africa,India,South Africa,5 wickets,Johannesburg,10-02-2018,ODI # 3973
+579,Afghanistan,Zimbabwe,Zimbabwe,154 runs,Sharjah,11-02-2018,ODI # 3974
+580,Afghanistan,Zimbabwe,Afghanistan,6 wickets,Sharjah,13-02-2018,ODI # 3975
+581,South Africa,India,India,73 runs,Gqeberha,13-02-2018,ODI # 3976
+582,Afghanistan,Zimbabwe,Afghanistan,10 wickets,Sharjah,16-02-2018,ODI # 3977
+583,South Africa,India,India,8 wickets,Centurion,16-02-2018,ODI # 3978
+584,Afghanistan,Zimbabwe,Afghanistan,146 runs,Sharjah,19-02-2018,ODI # 3979
+585,New Zealand,England,New Zealand,3 wickets,Hamilton,25-02-2018,ODI # 3980
+586,New Zealand,England,England,6 wickets,Mount Maunganui,28-02-2018,ODI # 3981
+587,New Zealand,England,England,4 runs,Wellington,03-03-2018,ODI # 3982
+588,Afghanistan,Scotland,Scotland,7 wickets,Bulawayo,04-03-2018,ODI # 3983
+589,P.N.G.,U.A.E.,U.A.E.,56 runs,Harare,04-03-2018,ODI # 3984
+590,Hong Kong,Scotland,Scotland,4 wickets,Bulawayo,06-03-2018,ODI # 3985
+591,Ireland,P.N.G.,Ireland,4 wickets,Harare,06-03-2018,ODI # 3986
+592,U.A.E.,West Indies,West Indies,60 runs,Harare,06-03-2018,ODI # 3987
+593,Zimbabwe,Afghanistan,Zimbabwe,2 runs,Bulawayo,06-03-2018,ODI # 3988
+594,New Zealand,England,New Zealand,5 wickets,Dunedin,07-03-2018,ODI # 3989
+595,Afghanistan,Hong Kong,Hong Kong,30 runs,Bulawayo,08-03-2018,ODI # 3990
+596,P.N.G.,West Indies,West Indies,6 wickets,Harare,08-03-2018,ODI # 3991
+597,New Zealand,England,England,7 wickets,Christchurch,10-03-2018,ODI # 3992
+598,Ireland,West Indies,West Indies,52 runs,Harare,10-03-2018,ODI # 3993
+599,Zimbabwe,Hong Kong,Zimbabwe,89 runs,Bulawayo,10-03-2018,ODI # 3994
+600,Ireland,U.A.E.,Ireland,226 runs,Harare,12-03-2018,ODI # 3995
+601,Zimbabwe,Scotland,tied,-,Bulawayo,12-03-2018,ODI # 3996
+602,Afghanistan,West Indies,Afghanistan,3 wickets,Harare,15-03-2018,ODI # 3997
+603,Scotland,U.A.E.,Scotland,73 runs,Bulawayo,15-03-2018,ODI # 3998
+604,Zimbabwe,Ireland,Zimbabwe,107 runs,Harare,16-03-2018,ODI # 3999
+605,Hong Kong,P.N.G.,P.N.G.,58 runs,Harare,17-03-2018,ODI # 4000
+606,Ireland,Scotland,Ireland,25 runs,Harare,18-03-2018,ODI # 4001
+607,Zimbabwe,West Indies,West Indies,4 wickets,Harare,19-03-2018,ODI # 4002
+608,Afghanistan,U.A.E.,Afghanistan,5 wickets,Harare,20-03-2018,ODI # 4003
+609,Scotland,West Indies,West Indies,5 runs,Harare,21-03-2018,ODI # 4004
+610,Zimbabwe,U.A.E.,U.A.E.,3 runs,Harare,22-03-2018,ODI # 4005
+611,Afghanistan,Ireland,Afghanistan,5 wickets,Harare,23-03-2018,ODI # 4006
+612,Afghanistan,West Indies,Afghanistan,7 wickets,Harare,25-03-2018,ODI # 4007
+613,Scotland,England,Scotland,6 runs,Edinburgh,10-06-2018,ODI # 4008
+614,England,Australia,England,3 wickets,The Oval,13-06-2018,ODI # 4009
+615,England,Australia,England,38 runs,Cardiff,16-06-2018,ODI # 4010
+616,England,Australia,England,242 runs,Nottingham,19-06-2018,ODI # 4011
+617,England,Australia,England,6 wickets,Chester-le-Street,21-06-2018,ODI # 4012
+618,England,Australia,England,1 wicket,Manchester,24-06-2018,ODI # 4013
+619,England,India,India,8 wickets,Nottingham,12-07-2018,ODI # 4014
+620,Zimbabwe,Pakistan,Pakistan,201 runs,Bulawayo,13-07-2018,ODI # 4015
+621,England,India,England,86 runs,Lord's,14-07-2018,ODI # 4016
+622,Zimbabwe,Pakistan,Pakistan,9 wickets,Bulawayo,16-07-2018,ODI # 4017
+623,England,India,England,8 wickets,Leeds,17-07-2018,ODI # 4018
+624,Zimbabwe,Pakistan,Pakistan,9 wickets,Bulawayo,18-07-2018,ODI # 4019
+625,Zimbabwe,Pakistan,Pakistan,244 runs,Bulawayo,20-07-2018,ODI # 4020
+626,Zimbabwe,Pakistan,Pakistan,131 runs,Bulawayo,22-07-2018,ODI # 4021
+627,West Indies,Bangladesh,Bangladesh,48 runs,Providence,22-07-2018,ODI # 4022
+628,West Indies,Bangladesh,West Indies,3 runs,Providence,25-07-2018,ODI # 4023
+629,West Indies,Bangladesh,Bangladesh,18 runs,Basseterre,28-07-2018,ODI # 4024
+630,Sri Lanka,South Africa,South Africa,5 wickets,Dambulla,29-07-2018,ODI # 4025
+631,Netherlands,Nepal,Netherlands,55 runs,Amstelveen,01-08-2018,ODI # 4026
+632,Sri Lanka,South Africa,South Africa,4 wickets,Dambulla,01-08-2018,ODI # 4027
+633,Netherlands,Nepal,Nepal,1 run,Amstelveen,03-08-2018,ODI # 4028
+634,Sri Lanka,South Africa,South Africa,78 runs,Pallekele,05-08-2018,ODI # 4029
+635,Sri Lanka,South Africa,Sri Lanka,3 runs,Pallekele,08-08-2018,ODI # 4030
+636,Sri Lanka,South Africa,Sri Lanka,178 runs,Colombo (RPS),12-08-2018,ODI # 4031
+637,Ireland,Afghanistan,Afghanistan,29 runs,Belfast,27-08-2018,ODI # 4032
+638,Ireland,Afghanistan,Ireland,3 wickets,Belfast,29-08-2018,ODI # 4033
+639,Nepal,U.A.E.,U.A.E.,78 runs,Kuala Lumpur,30-08-2018,ODI # 4034
+640,Ireland,Afghanistan,Afghanistan,8 wickets,Belfast,31-08-2018,ODI # 4035
+641,Bangladesh,Sri Lanka,Bangladesh,137 runs,Dubai (DSC),15-09-2018,ODI # 4036
+642,Hong Kong,Pakistan,Pakistan,8 wickets,Dubai (DSC),16-09-2018,ODI # 4037
+643,Afghanistan,Sri Lanka,Afghanistan,91 runs,Abu Dhabi,17-09-2018,ODI # 4038
+644,Hong Kong,India,India,26 runs,Dubai (DSC),18-09-2018,ODI # 4039
+645,India,Pakistan,India,8 wickets,Dubai (DSC),19-09-2018,ODI # 4040
+646,Afghanistan,Bangladesh,Afghanistan,136 runs,Abu Dhabi,20-09-2018,ODI # 4041
+647,Bangladesh,India,India,7 wickets,Dubai (DSC),21-09-2018,ODI # 4042
+648,Afghanistan,Pakistan,Pakistan,3 wickets,Abu Dhabi,21-09-2018,ODI # 4043
+649,India,Pakistan,India,9 wickets,Dubai (DSC),23-09-2018,ODI # 4044
+650,Afghanistan,Bangladesh,Bangladesh,3 runs,Abu Dhabi,23-09-2018,ODI # 4045
+651,Afghanistan,India,tied,-,Dubai (DSC),25-09-2018,ODI # 4046
+652,Bangladesh,Pakistan,Bangladesh,37 runs,Abu Dhabi,26-09-2018,ODI # 4047
+653,Bangladesh,India,India,3 wickets,Dubai (DSC),28-09-2018,ODI # 4048
+654,South Africa,Zimbabwe,South Africa,5 wickets,Kimberley,30-09-2018,ODI # 4049
+655,South Africa,Zimbabwe,South Africa,120 runs,Bloemfontein,03-10-2018,ODI # 4050
+656,South Africa,Zimbabwe,South Africa,4 wickets,Paarl,06-10-2018,ODI # 4051
+657,Sri Lanka,England,no result,-,Dambulla,10-10-2018,ODI # 4052
+658,Sri Lanka,England,England,31 runs,Dambulla,13-10-2018,ODI # 4053
+659,Sri Lanka,England,England,7 wickets,Pallekele,17-10-2018,ODI # 4054
+660,Sri Lanka,England,England,18 runs,Pallekele,20-10-2018,ODI # 4055
+661,India,West Indies,India,8 wickets,Guwahati,21-10-2018,ODI # 4056
+662,Bangladesh,Zimbabwe,Bangladesh,28 runs,Mirpur,21-10-2018,ODI # 4057
+663,Sri Lanka,England,Sri Lanka,219 runs,Colombo (RPS),23-10-2018,ODI # 4058
+664,India,West Indies,tied,-,Visakhapatnam,24-10-2018,ODI # 4059
+665,Bangladesh,Zimbabwe,Bangladesh,7 wickets,Chattogram,24-10-2018,ODI # 4060
+666,Bangladesh,Zimbabwe,Bangladesh,7 wickets,Chattogram,26-10-2018,ODI # 4061
+667,India,West Indies,West Indies,43 runs,Pune,27-10-2018,ODI # 4062
+668,India,West Indies,India,224 runs,Brabourne,29-10-2018,ODI # 4063
+669,India,West Indies,India,9 wickets,Thiruvananthapuram,01-11-2018,ODI # 4064
+670,Australia,South Africa,South Africa,6 wickets,Perth,04-11-2018,ODI # 4065
+671,New Zealand,Pakistan,New Zealand,47 runs,Abu Dhabi,07-11-2018,ODI # 4066
+672,Australia,South Africa,Australia,7 runs,Adelaide,09-11-2018,ODI # 4067
+673,New Zealand,Pakistan,Pakistan,6 wickets,Abu Dhabi,09-11-2018,ODI # 4068
+674,Australia,South Africa,South Africa,40 runs,Hobart,11-11-2018,ODI # 4069
+675,New Zealand,Pakistan,no result,-,Dubai (DSC),11-11-2018,ODI # 4070
+676,Bangladesh,West Indies,Bangladesh,5 wickets,Mirpur,09-12-2018,ODI # 4071
+677,Bangladesh,West Indies,West Indies,4 wickets,Mirpur,11-12-2018,ODI # 4072
+678,Bangladesh,West Indies,Bangladesh,8 wickets,Sylhet,14-12-2018,ODI # 4073
+679,Australia,Pakistan,Australia,92 runs,Brisbane,13-01-2017,ODI # 3817
+680,Australia,Pakistan,Pakistan,6 wickets,Melbourne,15-01-2017,ODI # 3818
+681,India,England,India,3 wickets,Pune,15-01-2017,ODI # 3819
+682,Australia,Pakistan,Australia,7 wickets,Perth,19-01-2017,ODI # 3820
+683,India,England,India,15 runs,Cuttack,19-01-2017,ODI # 3821
+684,Australia,Pakistan,Australia,86 runs,Sydney,22-01-2017,ODI # 3822
+685,Hong Kong,Scotland,Hong Kong,7 wickets,Abu Dhabi,22-01-2017,ODI # 3823
+686,India,England,England,5 runs,Eden Gardens,22-01-2017,ODI # 3824
+687,U.A.E.,Scotland,U.A.E.,4 wickets,Dubai (DSC),24-01-2017,ODI # 3825
+688,Australia,Pakistan,Australia,57 runs,Adelaide,26-01-2017,ODI # 3826
+689,U.A.E.,Hong Kong,U.A.E.,6 wickets,Dubai (DSC),26-01-2017,ODI # 3827
+690,South Africa,Sri Lanka,South Africa,8 wickets,Gqeberha,28-01-2017,ODI # 3828
+691,New Zealand,Australia,New Zealand,6 runs,Auckland,30-01-2017,ODI # 3829
+692,South Africa,Sri Lanka,South Africa,121 runs,Durban,01-02-2017,ODI # 3830
+693,South Africa,Sri Lanka,South Africa,7 wickets,Johannesburg,04-02-2017,ODI # 3831
+694,New Zealand,Australia,New Zealand,24 runs,Hamilton,05-02-2017,ODI # 3832
+695,South Africa,Sri Lanka,South Africa,40 runs,Cape Town,07-02-2017,ODI # 3833
+696,South Africa,Sri Lanka,South Africa,88 runs,Centurion,10-02-2017,ODI # 3834
+697,Zimbabwe,Afghanistan,Afghanistan,12 runs,Harare,16-02-2017,ODI # 3835
+698,New Zealand,South Africa,South Africa,4 wickets,Hamilton,19-02-2017,ODI # 3836
+699,Zimbabwe,Afghanistan,Afghanistan,54 runs,Harare,19-02-2017,ODI # 3837
+700,Zimbabwe,Afghanistan,Zimbabwe,3 runs,Harare,21-02-2017,ODI # 3838
+701,New Zealand,South Africa,New Zealand,6 runs,Christchurch,22-02-2017,ODI # 3839
+702,Zimbabwe,Afghanistan,Zimbabwe,7 wickets,Harare,24-02-2017,ODI # 3840
+703,New Zealand,South Africa,South Africa,159 runs,Wellington,25-02-2017,ODI # 3841
+704,Zimbabwe,Afghanistan,Afghanistan,106 runs,Harare,26-02-2017,ODI # 3842
+705,New Zealand,South Africa,New Zealand,7 wickets,Hamilton,01-03-2017,ODI # 3843
+706,U.A.E.,Ireland,Ireland,85 runs,ICCA Dubai,02-03-2017,ODI # 3844
+707,West Indies,England,England,45 runs,North Sound,03-03-2017,ODI # 3845
+708,New Zealand,South Africa,South Africa,6 wickets,Auckland,04-03-2017,ODI # 3846
+709,U.A.E.,Ireland,Ireland,8 wickets,ICCA Dubai,04-03-2017,ODI # 3847
+710,West Indies,England,England,4 wickets,North Sound,05-03-2017,ODI # 3848
+711,West Indies,England,England,186 runs,Bridgetown,09-03-2017,ODI # 3849
+712,Afghanistan,Ireland,Afghanistan,30 runs,Greater Noida,15-03-2017,ODI # 3850
+713,Afghanistan,Ireland,Afghanistan,34 runs,Greater Noida,17-03-2017,ODI # 3851
+714,Afghanistan,Ireland,Ireland,6 wickets,Greater Noida,19-03-2017,ODI # 3852
+715,Afghanistan,Ireland,Ireland,3 wickets,Greater Noida,22-03-2017,ODI # 3853
+716,Afghanistan,Ireland,Afghanistan,7 wickets,Greater Noida,24-03-2017,ODI # 3854
+717,Sri Lanka,Bangladesh,Bangladesh,90 runs,Dambulla,25-03-2017,ODI # 3855
+718,Sri Lanka,Bangladesh,no result,-,Dambulla,28-03-2017,ODI # 3856
+719,U.A.E.,P.N.G.,U.A.E.,82 runs,Abu Dhabi,31-03-2017,ODI # 3857
+720,Sri Lanka,Bangladesh,Sri Lanka,70 runs,Colombo (SSC),01-04-2017,ODI # 3858
+721,U.A.E.,P.N.G.,P.N.G.,26 runs,Abu Dhabi,02-04-2017,ODI # 3859
+722,U.A.E.,P.N.G.,U.A.E.,103 runs,Abu Dhabi,04-04-2017,ODI # 3860
+723,West Indies,Pakistan,West Indies,4 wickets,Providence,07-04-2017,ODI # 3861
+724,West Indies,Pakistan,Pakistan,74 runs,Providence,09-04-2017,ODI # 3862
+725,West Indies,Pakistan,Pakistan,6 wickets,Providence,11-04-2017,ODI # 3863
+726,England,Ireland,England,7 wickets,Bristol,05-05-2017,ODI # 3864
+727,England,Ireland,England,85 runs,Lord's,07-05-2017,ODI # 3865
+728,Ireland,Bangladesh,no result,-,Dublin (Malahide),12-05-2017,ODI # 3866
+729,Ireland,New Zealand,New Zealand,51 runs,Dublin (Malahide),14-05-2017,ODI # 3867
+730,Bangladesh,New Zealand,New Zealand,4 wickets,Dublin,17-05-2017,ODI # 3868
+731,Ireland,Bangladesh,Bangladesh,8 wickets,Dublin (Malahide),19-05-2017,ODI # 3869
+732,Ireland,New Zealand,New Zealand,190 runs,Dublin (Malahide),21-05-2017,ODI # 3870
+733,Bangladesh,New Zealand,Bangladesh,5 wickets,Dublin,24-05-2017,ODI # 3871
+734,England,South Africa,England,72 runs,Leeds,24-05-2017,ODI # 3872
+735,England,South Africa,England,2 runs,Southampton,27-05-2017,ODI # 3873
+736,England,South Africa,South Africa,7 wickets,Lord's,29-05-2017,ODI # 3874
+737,England,Bangladesh,England,8 wickets,The Oval,01-06-2017,ODI # 3875
+738,Australia,New Zealand,no result,-,Birmingham,02-06-2017,ODI # 3876
+739,South Africa,Sri Lanka,South Africa,96 runs,The Oval,03-06-2017,ODI # 3877
+740,India,Pakistan,India,124 runs,Birmingham,04-06-2017,ODI # 3878
+741,Australia,Bangladesh,no result,-,The Oval,05-06-2017,ODI # 3879
+742,England,New Zealand,England,87 runs,Cardiff,06-06-2017,ODI # 3880
+743,Pakistan,South Africa,Pakistan,19 runs,Birmingham,07-06-2017,ODI # 3881
+744,India,Sri Lanka,Sri Lanka,7 wickets,The Oval,08-06-2017,ODI # 3882
+745,Bangladesh,New Zealand,Bangladesh,5 wickets,Cardiff,09-06-2017,ODI # 3883
+746,West Indies,Afghanistan,Afghanistan,63 runs,Gros Islet,09-06-2017,ODI # 3884
+747,England,Australia,England,40 runs,Birmingham,10-06-2017,ODI # 3885
+748,India,South Africa,India,8 wickets,The Oval,11-06-2017,ODI # 3886
+749,West Indies,Afghanistan,West Indies,4 wickets,Gros Islet,11-06-2017,ODI # 3887
+750,Pakistan,Sri Lanka,Pakistan,3 wickets,Cardiff,12-06-2017,ODI # 3888
+751,England,Pakistan,Pakistan,8 wickets,Cardiff,14-06-2017,ODI # 3889
+752,West Indies,Afghanistan,no result,-,Gros Islet,14-06-2017,ODI # 3890
+753,Bangladesh,India,India,9 wickets,Birmingham,15-06-2017,ODI # 3891
+754,Scotland,Zimbabwe,Scotland,26 runs,Edinburgh,15-06-2017,ODI # 3892
+755,Scotland,Zimbabwe,Zimbabwe,6 wickets,Edinburgh,17-06-2017,ODI # 3893
+756,India,Pakistan,Pakistan,180 runs,The Oval,18-06-2017,ODI # 3894
+757,West Indies,India,no result,-,Port of Spain,23-06-2017,ODI # 3895
+758,West Indies,India,India,105 runs,Port of Spain,25-06-2017,ODI # 3896
+759,Sri Lanka,Zimbabwe,Zimbabwe,6 wickets,Galle,30-06-2017,ODI # 3897
+760,West Indies,India,India,93 runs,North Sound,30-06-2017,ODI # 3898
+761,Sri Lanka,Zimbabwe,Sri Lanka,7 wickets,Galle,02-07-2017,ODI # 3899
+762,West Indies,India,West Indies,11 runs,North Sound,02-07-2017,ODI # 3900
+763,Sri Lanka,Zimbabwe,Sri Lanka,8 wickets,Hambantota,06-07-2017,ODI # 3901
+764,West Indies,India,India,8 wickets,Kingston,06-07-2017,ODI # 3902
+765,Sri Lanka,Zimbabwe,Zimbabwe,4 wickets,Hambantota,08-07-2017,ODI # 3903
+766,Sri Lanka,Zimbabwe,Zimbabwe,3 wickets,Hambantota,10-07-2017,ODI # 3904
+767,Sri Lanka,India,India,9 wickets,Dambulla,20-08-2017,ODI # 3905
+768,Sri Lanka,India,India,3 wickets,Pallekele,24-08-2017,ODI # 3906
+769,Sri Lanka,India,India,6 wickets,Pallekele,27-08-2017,ODI # 3907
+770,Sri Lanka,India,India,168 runs,Colombo (RPS),31-08-2017,ODI # 3908
+771,Sri Lanka,India,India,6 wickets,Colombo (RPS),03-09-2017,ODI # 3909
+772,India,Australia,India,26 runs,Chennai,17-09-2017,ODI # 3910
+773,England,West Indies,England,7 wickets,Manchester,19-09-2017,ODI # 3911
+774,India,Australia,India,50 runs,Eden Gardens,21-09-2017,ODI # 3912
+775,England,West Indies,no result,-,Nottingham,21-09-2017,ODI # 3913
+776,India,Australia,India,5 wickets,Indore,24-09-2017,ODI # 3914
+777,England,West Indies,England,124 runs,Bristol,24-09-2017,ODI # 3915
+778,England,West Indies,England,6 runs,The Oval,27-09-2017,ODI # 3916
+779,India,Australia,Australia,21 runs,Bengaluru,28-09-2017,ODI # 3917
+780,England,West Indies,England,9 wickets,Southampton,29-09-2017,ODI # 3918
+781,India,Australia,India,7 wickets,Nagpur,01-10-2017,ODI # 3919
+782,P.N.G.,Scotland,Scotland,101 runs,Port Moresby,06-10-2017,ODI # 3920
+783,P.N.G.,Scotland,P.N.G.,5 wickets,Port Moresby,08-10-2017,ODI # 3921
+784,Pakistan,Sri Lanka,Pakistan,83 runs,Dubai (DSC),13-10-2017,ODI # 3922
+785,South Africa,Bangladesh,South Africa,10 wickets,Kimberley,15-10-2017,ODI # 3923
+786,Pakistan,Sri Lanka,Pakistan,32 runs,Abu Dhabi,16-10-2017,ODI # 3924
+787,South Africa,Bangladesh,South Africa,104 runs,Paarl,18-10-2017,ODI # 3925
+788,Pakistan,Sri Lanka,Pakistan,7 wickets,Abu Dhabi,18-10-2017,ODI # 3926
+789,Pakistan,Sri Lanka,Pakistan,7 wickets,Sharjah,20-10-2017,ODI # 3927
+790,India,New Zealand,New Zealand,6 wickets,Wankhede,22-10-2017,ODI # 3928
+791,South Africa,Bangladesh,South Africa,200 runs,East London,22-10-2017,ODI # 3929
+792,Pakistan,Sri Lanka,Pakistan,9 wickets,Sharjah,23-10-2017,ODI # 3930
+793,India,New Zealand,India,6 wickets,Pune,25-10-2017,ODI # 3931
+794,India,New Zealand,India,6 runs,Kanpur,29-10-2017,ODI # 3932
+795,P.N.G.,Scotland,Scotland,6 wickets,Dubai (DSC),24-11-2017,ODI # 3933
+796,P.N.G.,Scotland,Scotland,4 wickets,Dubai (DSC),25-11-2017,ODI # 3934
+797,Afghanistan,Ireland,Afghanistan,138 runs,Sharjah,05-12-2017,ODI # 3935
+798,Hong Kong,P.N.G.,Hong Kong,23 runs,ICCA Dubai,06-12-2017,ODI # 3936
+799,Afghanistan,Ireland,Ireland,51 runs,Sharjah,07-12-2017,ODI # 3937
+800,Hong Kong,P.N.G.,Hong Kong,93 runs,ICCA Dubai,08-12-2017,ODI # 3938
+801,India,Sri Lanka,Sri Lanka,7 wickets,Dharamsala,10-12-2017,ODI # 3939
+802,Afghanistan,Ireland,Ireland,5 wickets,Sharjah,10-12-2017,ODI # 3940
+803,India,Sri Lanka,India,141 runs,Mohali,13-12-2017,ODI # 3941
+804,India,Sri Lanka,India,8 wickets,Visakhapatnam,17-12-2017,ODI # 3942
+805,New Zealand,West Indies,New Zealand,5 wickets,Whangarei,20-12-2017,ODI # 3943
+806,New Zealand,West Indies,New Zealand,204 runs,Christchurch,23-12-2017,ODI # 3944
+807,New Zealand,West Indies,New Zealand,66 runs,Christchurch,26-12-2017,ODI # 3945
+808,Afghanistan,Scotland,Afghanistan,8 wickets,ICCA Dubai,08-01-2015,ODI # 3572
+809,Afghanistan,Ireland,Ireland,3 wickets,Dubai (DSC),10-01-2015,ODI # 3573
+810,New Zealand,Sri Lanka,New Zealand,3 wickets,Christchurch,11-01-2015,ODI # 3574
+811,Ireland,Scotland,Ireland,3 wickets,Dubai (DSC),12-01-2015,ODI # 3575
+812,Afghanistan,Scotland,Scotland,150 runs,Abu Dhabi,14-01-2015,ODI # 3576
+813,New Zealand,Sri Lanka,Sri Lanka,6 wickets,Hamilton,15-01-2015,ODI # 3577
+814,Australia,England,Australia,3 wickets,Sydney,16-01-2015,ODI # 3578
+815,South Africa,West Indies,South Africa,61 runs,Durban,16-01-2015,ODI # 3579
+816,New Zealand,Sri Lanka,no result,-,Auckland,17-01-2015,ODI # 3580
+817,Afghanistan,Ireland,Afghanistan,71 runs,Dubai (DSC),17-01-2015,ODI # 3581
+818,Australia,India,Australia,4 wickets,Melbourne,18-01-2015,ODI # 3582
+819,South Africa,West Indies,South Africa,148 runs,Johannesburg,18-01-2015,ODI # 3583
+820,Ireland,Scotland,no result,-,ICCA Dubai,19-01-2015,ODI # 3584
+821,New Zealand,Sri Lanka,New Zealand,4 wickets,Nelson,20-01-2015,ODI # 3585
+822,England,India,England,9 wickets,Brisbane,20-01-2015,ODI # 3586
+823,South Africa,West Indies,South Africa,9 wickets,East London,21-01-2015,ODI # 3587
+824,New Zealand,Sri Lanka,New Zealand,108 runs,Dunedin,23-01-2015,ODI # 3588
+825,Australia,England,Australia,3 wickets,Hobart,23-01-2015,ODI # 3589
+826,New Zealand,Sri Lanka,New Zealand,120 runs,Dunedin,25-01-2015,ODI # 3590
+827,South Africa,West Indies,West Indies,1 wicket,Gqeberha,25-01-2015,ODI # 3591
+828,Australia,India,no result,-,Sydney,26-01-2015,ODI # 3592
+829,South Africa,West Indies,South Africa,131 runs,Centurion,28-01-2015,ODI # 3593
+830,New Zealand,Sri Lanka,Sri Lanka,34 runs,Wellington,29-01-2015,ODI # 3594
+831,England,India,England,3 wickets,Perth,30-01-2015,ODI # 3595
+832,New Zealand,Pakistan,New Zealand,7 wickets,Wellington,31-01-2015,ODI # 3596
+833,Australia,England,Australia,112 runs,Perth,01-02-2015,ODI # 3597
+834,New Zealand,Pakistan,New Zealand,119 runs,Napier,03-02-2015,ODI # 3598
+835,New Zealand,Sri Lanka,New Zealand,98 runs,Christchurch,14-02-2015,ODI # 3599
+836,Australia,England,Australia,111 runs,Melbourne,14-02-2015,ODI # 3600
+837,South Africa,Zimbabwe,South Africa,62 runs,Hamilton,15-02-2015,ODI # 3601
+838,India,Pakistan,India,76 runs,Adelaide,15-02-2015,ODI # 3602
+839,Ireland,West Indies,Ireland,4 wickets,Nelson,16-02-2015,ODI # 3603
+840,New Zealand,Scotland,New Zealand,3 wickets,Dunedin,17-02-2015,ODI # 3604
+841,Afghanistan,Bangladesh,Bangladesh,105 runs,Canberra,18-02-2015,ODI # 3605
+842,U.A.E.,Zimbabwe,Zimbabwe,4 wickets,Nelson,19-02-2015,ODI # 3606
+843,New Zealand,England,New Zealand,8 wickets,Wellington,20-02-2015,ODI # 3607
+844,Pakistan,West Indies,West Indies,150 runs,Christchurch,21-02-2015,ODI # 3608
+845,Afghanistan,Sri Lanka,Sri Lanka,4 wickets,Dunedin,22-02-2015,ODI # 3609
+846,India,South Africa,India,130 runs,Melbourne,22-02-2015,ODI # 3610
+847,England,Scotland,England,119 runs,Christchurch,23-02-2015,ODI # 3611
+848,West Indies,Zimbabwe,West Indies,73 runs,Canberra,24-02-2015,ODI # 3612
+849,Ireland,U.A.E.,Ireland,2 wickets,Brisbane,25-02-2015,ODI # 3613
+850,Afghanistan,Scotland,Afghanistan,1 wicket,Dunedin,26-02-2015,ODI # 3614
+851,Bangladesh,Sri Lanka,Sri Lanka,92 runs,Melbourne,26-02-2015,ODI # 3615
+852,South Africa,West Indies,South Africa,257 runs,Sydney,27-02-2015,ODI # 3616
+853,New Zealand,Australia,New Zealand,1 wicket,Auckland,28-02-2015,ODI # 3617
+854,India,U.A.E.,India,9 wickets,Perth,28-02-2015,ODI # 3618
+855,England,Sri Lanka,Sri Lanka,9 wickets,Wellington,01-03-2015,ODI # 3619
+856,Pakistan,Zimbabwe,Pakistan,20 runs,Brisbane,01-03-2015,ODI # 3620
+857,Ireland,South Africa,South Africa,201 runs,Canberra,03-03-2015,ODI # 3621
+858,Pakistan,U.A.E.,Pakistan,129 runs,Napier,04-03-2015,ODI # 3622
+859,Australia,Afghanistan,Australia,275 runs,Perth,04-03-2015,ODI # 3623
+860,Bangladesh,Scotland,Bangladesh,6 wickets,Nelson,05-03-2015,ODI # 3624
+861,India,West Indies,India,4 wickets,Perth,06-03-2015,ODI # 3625
+862,Pakistan,South Africa,Pakistan,29 runs,Auckland,07-03-2015,ODI # 3626
+863,Ireland,Zimbabwe,Ireland,5 runs,Hobart,07-03-2015,ODI # 3627
+864,New Zealand,Afghanistan,New Zealand,6 wickets,Napier,08-03-2015,ODI # 3628
+865,Australia,Sri Lanka,Australia,64 runs,Sydney,08-03-2015,ODI # 3629
+866,Bangladesh,England,Bangladesh,15 runs,Adelaide,09-03-2015,ODI # 3630
+867,India,Ireland,India,8 wickets,Hamilton,10-03-2015,ODI # 3631
+868,Scotland,Sri Lanka,Sri Lanka,148 runs,Hobart,11-03-2015,ODI # 3632
+869,South Africa,U.A.E.,South Africa,146 runs,Wellington,12-03-2015,ODI # 3633
+870,New Zealand,Bangladesh,New Zealand,3 wickets,Hamilton,13-03-2015,ODI # 3634
+871,Afghanistan,England,England,9 wickets,Sydney,13-03-2015,ODI # 3635
+872,India,Zimbabwe,India,6 wickets,Auckland,14-03-2015,ODI # 3636
+873,Australia,Scotland,Australia,7 wickets,Hobart,14-03-2015,ODI # 3637
+874,U.A.E.,West Indies,West Indies,6 wickets,Napier,15-03-2015,ODI # 3638
+875,Ireland,Pakistan,Pakistan,7 wickets,Adelaide,15-03-2015,ODI # 3639
+876,South Africa,Sri Lanka,South Africa,9 wickets,Sydney,18-03-2015,ODI # 3640
+877,Bangladesh,India,India,109 runs,Melbourne,19-03-2015,ODI # 3641
+878,Australia,Pakistan,Australia,6 wickets,Adelaide,20-03-2015,ODI # 3642
+879,New Zealand,West Indies,New Zealand,143 runs,Wellington,21-03-2015,ODI # 3643
+880,New Zealand,South Africa,New Zealand,4 wickets,Auckland,24-03-2015,ODI # 3644
+881,Australia,India,Australia,95 runs,Sydney,26-03-2015,ODI # 3645
+882,Australia,New Zealand,Australia,7 wickets,Melbourne,29-03-2015,ODI # 3646
+883,Bangladesh,Pakistan,Bangladesh,79 runs,Mirpur,17-04-2015,ODI # 3647
+884,Bangladesh,Pakistan,Bangladesh,7 wickets,Mirpur,19-04-2015,ODI # 3648
+885,Bangladesh,Pakistan,Bangladesh,8 wickets,Mirpur,22-04-2015,ODI # 3649
+886,Ireland,England,no result,-,Dublin (Malahide),08-05-2015,ODI # 3650
+887,Pakistan,Zimbabwe,Pakistan,41 runs,Lahore,26-05-2015,ODI # 3651
+888,Pakistan,Zimbabwe,Pakistan,6 wickets,Lahore,29-05-2015,ODI # 3652
+889,Pakistan,Zimbabwe,no result,-,Lahore,31-05-2015,ODI # 3653
+890,England,New Zealand,England,210 runs,Birmingham,09-06-2015,ODI # 3654
+891,England,New Zealand,New Zealand,13 runs,The Oval,12-06-2015,ODI # 3655
+892,England,New Zealand,New Zealand,3 wickets,Southampton,14-06-2015,ODI # 3656
+893,England,New Zealand,England,7 wickets,Nottingham,17-06-2015,ODI # 3657
+894,Bangladesh,India,Bangladesh,79 runs,Mirpur,18-06-2015,ODI # 3658
+895,England,New Zealand,England,3 wickets,Chester-le-Street,20-06-2015,ODI # 3659
+896,Bangladesh,India,Bangladesh,6 wickets,Mirpur,21-06-2015,ODI # 3660
+897,Bangladesh,India,India,77 runs,Mirpur,24-06-2015,ODI # 3661
+898,Zimbabwe,India,India,4 runs,Harare,10-07-2015,ODI # 3662
+899,Bangladesh,South Africa,South Africa,8 wickets,Mirpur,10-07-2015,ODI # 3663
+900,Sri Lanka,Pakistan,Pakistan,6 wickets,Dambulla,11-07-2015,ODI # 3664
+901,Zimbabwe,India,India,62 runs,Harare,12-07-2015,ODI # 3665
+902,Bangladesh,South Africa,Bangladesh,7 wickets,Mirpur,12-07-2015,ODI # 3666
+903,Zimbabwe,India,India,83 runs,Harare,14-07-2015,ODI # 3667
+904,Bangladesh,South Africa,Bangladesh,9 wickets,Chattogram,15-07-2015,ODI # 3668
+905,Sri Lanka,Pakistan,Sri Lanka,2 wickets,Pallekele,15-07-2015,ODI # 3669
+906,Sri Lanka,Pakistan,Pakistan,135 runs,Colombo (RPS),19-07-2015,ODI # 3670
+907,Sri Lanka,Pakistan,Pakistan,7 wickets,Colombo (RPS),22-07-2015,ODI # 3671
+908,Sri Lanka,Pakistan,Sri Lanka,165 runs,Hambantota,26-07-2015,ODI # 3672
+909,Zimbabwe,New Zealand,Zimbabwe,7 wickets,Harare,02-08-2015,ODI # 3673
+910,Zimbabwe,New Zealand,New Zealand,10 wickets,Harare,04-08-2015,ODI # 3674
+911,Zimbabwe,New Zealand,New Zealand,38 runs,Harare,07-08-2015,ODI # 3675
+912,South Africa,New Zealand,South Africa,20 runs,Centurion,19-08-2015,ODI # 3676
+913,South Africa,New Zealand,New Zealand,8 wickets,Potchefstroom,23-08-2015,ODI # 3677
+914,South Africa,New Zealand,South Africa,62 runs,Durban,26-08-2015,ODI # 3678
+915,Ireland,Australia,Australia,23 runs,Belfast,27-08-2015,ODI # 3679
+916,England,Australia,Australia,59 runs,Southampton,03-09-2015,ODI # 3680
+917,England,Australia,Australia,64 runs,Lord's,05-09-2015,ODI # 3681
+918,England,Australia,England,93 runs,Manchester,08-09-2015,ODI # 3682
+919,England,Australia,England,3 wickets,Leeds,11-09-2015,ODI # 3683
+920,England,Australia,Australia,8 wickets,Manchester,13-09-2015,ODI # 3684
+921,Zimbabwe,Pakistan,Pakistan,131 runs,Harare,01-10-2015,ODI # 3685
+922,Zimbabwe,Pakistan,Zimbabwe,5 runs,Harare,03-10-2015,ODI # 3686
+923,Zimbabwe,Pakistan,Pakistan,7 wickets,Harare,05-10-2015,ODI # 3687
+924,Zimbabwe,Ireland,Zimbabwe,2 wickets,Harare,09-10-2015,ODI # 3688
+925,India,South Africa,South Africa,5 runs,Kanpur,11-10-2015,ODI # 3689
+926,Zimbabwe,Ireland,Zimbabwe,5 wickets,Harare,11-10-2015,ODI # 3690
+927,Zimbabwe,Ireland,Ireland,2 wickets,Harare,13-10-2015,ODI # 3691
+928,India,South Africa,India,22 runs,Indore,14-10-2015,ODI # 3692
+929,Zimbabwe,Afghanistan,Zimbabwe,8 wickets,Bulawayo,16-10-2015,ODI # 3693
+930,Zimbabwe,Afghanistan,Afghanistan,58 runs,Bulawayo,18-10-2015,ODI # 3694
+931,India,South Africa,South Africa,18 runs,Rajkot,18-10-2015,ODI # 3695
+932,Zimbabwe,Afghanistan,Zimbabwe,6 wickets,Bulawayo,20-10-2015,ODI # 3696
+933,Zimbabwe,Afghanistan,Afghanistan,3 wickets,Bulawayo,22-10-2015,ODI # 3697
+934,India,South Africa,India,35 runs,Chennai,22-10-2015,ODI # 3698
+935,Zimbabwe,Afghanistan,Afghanistan,73 runs,Bulawayo,24-10-2015,ODI # 3699
+936,India,South Africa,South Africa,214 runs,Wankhede,25-10-2015,ODI # 3700
+937,Sri Lanka,West Indies,Sri Lanka,1 wicket,Colombo (RPS),01-11-2015,ODI # 3701
+938,Sri Lanka,West Indies,Sri Lanka,8 wickets,Colombo (RPS),04-11-2015,ODI # 3702
+939,Bangladesh,Zimbabwe,Bangladesh,145 runs,Mirpur,07-11-2015,ODI # 3703
+940,Sri Lanka,West Indies,Sri Lanka,19 runs,Pallekele,07-11-2015,ODI # 3704
+941,Bangladesh,Zimbabwe,Bangladesh,58 runs,Mirpur,09-11-2015,ODI # 3705
+942,Bangladesh,Zimbabwe,Bangladesh,61 runs,Mirpur,11-11-2015,ODI # 3706
+943,England,Pakistan,Pakistan,6 wickets,Abu Dhabi,11-11-2015,ODI # 3707
+944,England,Pakistan,England,95 runs,Abu Dhabi,13-11-2015,ODI # 3708
+945,U.A.E.,Hong Kong,Hong Kong,89 runs,ICCA Dubai,16-11-2015,ODI # 3709
+946,England,Pakistan,England,6 wickets,Sharjah,17-11-2015,ODI # 3710
+947,U.A.E.,Hong Kong,Hong Kong,136 runs,ICCA Dubai,18-11-2015,ODI # 3711
+948,England,Pakistan,England,84 runs,Dubai (DSC),20-11-2015,ODI # 3712
+949,Afghanistan,Zimbabwe,Afghanistan,49 runs,Sharjah,25-12-2015,ODI # 3713
+950,New Zealand,Sri Lanka,New Zealand,7 wickets,Christchurch,26-12-2015,ODI # 3714
+951,New Zealand,Sri Lanka,New Zealand,10 wickets,Christchurch,28-12-2015,ODI # 3715
+952,Afghanistan,Zimbabwe,Afghanistan,4 wickets,Sharjah,29-12-2015,ODI # 3716
+953,New Zealand,Sri Lanka,Sri Lanka,8 wickets,Nelson,31-12-2015,ODI # 3717
+954,New Zealand,Sri Lanka,no result,-,Nelson,02-01-2016,ODI # 3718
+955,Afghanistan,Zimbabwe,Zimbabwe,117 runs,Sharjah,02-01-2016,ODI # 3719
+956,Afghanistan,Zimbabwe,Zimbabwe,65 runs,Sharjah,04-01-2016,ODI # 3720
+957,New Zealand,Sri Lanka,New Zealand,36 runs,Mount Maunganui,05-01-2016,ODI # 3721
+958,Afghanistan,Zimbabwe,Afghanistan,2 wickets,Sharjah,06-01-2016,ODI # 3722
+959,Australia,India,Australia,5 wickets,Perth,12-01-2016,ODI # 3723
+960,Australia,India,Australia,7 wickets,Brisbane,15-01-2016,ODI # 3724
+961,Australia,India,Australia,3 wickets,Melbourne,17-01-2016,ODI # 3725
+962,Australia,India,Australia,25 runs,Canberra,20-01-2016,ODI # 3726
+963,Australia,India,India,6 wickets,Sydney,23-01-2016,ODI # 3727
+964,New Zealand,Pakistan,New Zealand,70 runs,Wellington,25-01-2016,ODI # 3728
+965,Hong Kong,Scotland,Hong Kong,109 runs,Mong Kok,26-01-2016,ODI # 3729
+966,New Zealand,Pakistan,New Zealand,3 wickets,Auckland,31-01-2016,ODI # 3730
+967,New Zealand,Australia,New Zealand,159 runs,Auckland,03-02-2016,ODI # 3731
+968,South Africa,England,England,39 runs,Bloemfontein,03-02-2016,ODI # 3732
+969,New Zealand,Australia,Australia,4 wickets,Wellington,06-02-2016,ODI # 3733
+970,South Africa,England,England,5 wickets,Gqeberha,06-02-2016,ODI # 3734
+971,New Zealand,Australia,New Zealand,55 runs,Hamilton,08-02-2016,ODI # 3735
+972,South Africa,England,South Africa,7 wickets,Centurion,09-02-2016,ODI # 3736
+973,South Africa,England,South Africa,1 wicket,Johannesburg,12-02-2016,ODI # 3737
+974,South Africa,England,South Africa,5 wickets,Cape Town,14-02-2016,ODI # 3738
+975,West Indies,South Africa,West Indies,4 wickets,Providence,03-06-2016,ODI # 3739
+976,West Indies,Australia,Australia,6 wickets,Providence,05-06-2016,ODI # 3740
+977,Australia,South Africa,South Africa,47 runs,Providence,07-06-2016,ODI # 3741
+978,Zimbabwe,India,India,9 wickets,Harare,11-06-2016,ODI # 3742
+979,Australia,South Africa,Australia,36 runs,Basseterre,11-06-2016,ODI # 3743
+980,Zimbabwe,India,India,8 wickets,Harare,13-06-2016,ODI # 3744
+981,West Indies,Australia,West Indies,4 wickets,Basseterre,13-06-2016,ODI # 3745
+982,Zimbabwe,India,India,10 wickets,Harare,15-06-2016,ODI # 3746
+983,West Indies,South Africa,South Africa,139 runs,Basseterre,15-06-2016,ODI # 3747
+984,Ireland,Sri Lanka,Sri Lanka,76 runs,Dublin (Malahide),16-06-2016,ODI # 3748
+985,Ireland,Sri Lanka,Sri Lanka,136 runs,Dublin (Malahide),18-06-2016,ODI # 3749
+986,Australia,South Africa,no result,-,Bridgetown,19-06-2016,ODI # 3750
+987,England,Sri Lanka,tied,-,Nottingham,21-06-2016,ODI # 3751
+988,West Indies,Australia,Australia,6 wickets,Bridgetown,21-06-2016,ODI # 3752
+989,England,Sri Lanka,England,10 wickets,Birmingham,24-06-2016,ODI # 3753
+990,West Indies,South Africa,West Indies,100 runs,Bridgetown,24-06-2016,ODI # 3754
+991,England,Sri Lanka,no result,-,Bristol,26-06-2016,ODI # 3755
+992,West Indies,Australia,Australia,58 runs,Bridgetown,26-06-2016,ODI # 3756
+993,England,Sri Lanka,England,6 wickets,The Oval,29-06-2016,ODI # 3757
+994,England,Sri Lanka,England,122 runs,Cardiff,02-07-2016,ODI # 3758
+995,Scotland,Afghanistan,no result,-,Edinburgh,04-07-2016,ODI # 3759
+996,Scotland,Afghanistan,Afghanistan,78 runs,Edinburgh,06-07-2016,ODI # 3760
+997,Ireland,Afghanistan,Afghanistan,39 runs,Belfast,12-07-2016,ODI # 3761
+998,Ireland,Afghanistan,Ireland,6 wickets,Belfast,14-07-2016,ODI # 3762
+999,Ireland,Afghanistan,Afghanistan,79 runs,Belfast,17-07-2016,ODI # 3763
+1000,Ireland,Afghanistan,Ireland,12 runs,Belfast,19-07-2016,ODI # 3764
+1001,Scotland,U.A.E.,Scotland,98 runs,Edinburgh,14-08-2016,ODI # 3765
+1002,Scotland,U.A.E.,Scotland,7 wickets,Edinburgh,16-08-2016,ODI # 3766
+1003,Ireland,Pakistan,Pakistan,255 runs,Dublin (Malahide),18-08-2016,ODI # 3767
+1004,Sri Lanka,Australia,Australia,3 wickets,Colombo (RPS),21-08-2016,ODI # 3768
+1005,Sri Lanka,Australia,Sri Lanka,82 runs,Colombo (RPS),24-08-2016,ODI # 3769
+1006,England,Pakistan,England,44 runs,Southampton,24-08-2016,ODI # 3770
+1007,England,Pakistan,England,4 wickets,Lord's,27-08-2016,ODI # 3771
+1008,Sri Lanka,Australia,Australia,2 wickets,Dambulla,28-08-2016,ODI # 3772
+1009,England,Pakistan,England,169 runs,Nottingham,30-08-2016,ODI # 3773
+1010,Sri Lanka,Australia,Australia,6 wickets,Dambulla,31-08-2016,ODI # 3774
+1011,England,Pakistan,England,4 wickets,Leeds,01-09-2016,ODI # 3775
+1012,Sri Lanka,Australia,Australia,5 wickets,Pallekele,04-09-2016,ODI # 3776
+1013,England,Pakistan,Pakistan,4 wickets,Cardiff,04-09-2016,ODI # 3777
+1014,Scotland,Hong Kong,no result,-,Edinburgh,08-09-2016,ODI # 3778
+1015,Scotland,Hong Kong,Scotland,53 runs,Edinburgh,10-09-2016,ODI # 3779
+1016,South Africa,Ireland,South Africa,206 runs,Benoni,25-09-2016,ODI # 3780
+1017,Bangladesh,Afghanistan,Bangladesh,7 runs,Mirpur,25-09-2016,ODI # 3781
+1018,Australia,Ireland,Australia,9 wickets,Benoni,27-09-2016,ODI # 3782
+1019,Bangladesh,Afghanistan,Afghanistan,2 wickets,Mirpur,28-09-2016,ODI # 3783
+1020,Pakistan,West Indies,Pakistan,111 runs,Sharjah,30-09-2016,ODI # 3784
+1021,South Africa,Australia,South Africa,6 wickets,Centurion,30-09-2016,ODI # 3785
+1022,Bangladesh,Afghanistan,Bangladesh,141 runs,Mirpur,01-10-2016,ODI # 3786
+1023,South Africa,Australia,South Africa,142 runs,Johannesburg,02-10-2016,ODI # 3787
+1024,Pakistan,West Indies,Pakistan,59 runs,Sharjah,02-10-2016,ODI # 3788
+1025,Pakistan,West Indies,Pakistan,136 runs,Abu Dhabi,05-10-2016,ODI # 3789
+1026,South Africa,Australia,South Africa,4 wickets,Durban,05-10-2016,ODI # 3790
+1027,Bangladesh,England,England,21 runs,Mirpur,07-10-2016,ODI # 3791
+1028,South Africa,Australia,South Africa,6 wickets,Gqeberha,09-10-2016,ODI # 3792
+1029,Bangladesh,England,Bangladesh,34 runs,Mirpur,09-10-2016,ODI # 3793
+1030,Bangladesh,England,England,4 wickets,Chattogram,12-10-2016,ODI # 3794
+1031,South Africa,Australia,South Africa,31 runs,Cape Town,12-10-2016,ODI # 3795
+1032,India,New Zealand,India,6 wickets,Dharamsala,16-10-2016,ODI # 3796
+1033,India,New Zealand,New Zealand,6 runs,Delhi,20-10-2016,ODI # 3797
+1034,India,New Zealand,India,7 wickets,Mohali,23-10-2016,ODI # 3798
+1035,India,New Zealand,New Zealand,19 runs,Ranchi,26-10-2016,ODI # 3799
+1036,India,New Zealand,India,190 runs,Visakhapatnam,29-10-2016,ODI # 3800
+1037,Hong Kong,P.N.G.,Hong Kong,106 runs,Mong Kok,04-11-2016,ODI # 3801
+1038,Hong Kong,P.N.G.,P.N.G.,14 runs,Mong Kok,06-11-2016,ODI # 3802
+1039,Hong Kong,P.N.G.,Hong Kong,7 wickets,Mong Kok,08-11-2016,ODI # 3803
+1040,Zimbabwe,Sri Lanka,Sri Lanka,8 wickets,Harare,14-11-2016,ODI # 3804
+1041,Sri Lanka,West Indies,West Indies,62 runs,Harare,16-11-2016,ODI # 3805
+1042,Zimbabwe,West Indies,tied,-,Bulawayo,19-11-2016,ODI # 3806
+1043,Zimbabwe,Sri Lanka,no result,-,Bulawayo,21-11-2016,ODI # 3807
+1044,Sri Lanka,West Indies,Sri Lanka,1 run,Bulawayo,23-11-2016,ODI # 3808
+1045,Zimbabwe,West Indies,Zimbabwe,5 runs,Bulawayo,25-11-2016,ODI # 3809
+1046,Zimbabwe,Sri Lanka,Sri Lanka,6 wickets,Bulawayo,27-11-2016,ODI # 3810
+1047,Australia,New Zealand,Australia,68 runs,Sydney,04-12-2016,ODI # 3811
+1048,Australia,New Zealand,Australia,116 runs,Canberra,06-12-2016,ODI # 3812
+1049,Australia,New Zealand,Australia,117 runs,Melbourne,09-12-2016,ODI # 3813
+1050,New Zealand,Bangladesh,New Zealand,77 runs,Christchurch,26-12-2016,ODI # 3814
+1051,New Zealand,Bangladesh,New Zealand,67 runs,Nelson,29-12-2016,ODI # 3815
+1052,New Zealand,Bangladesh,New Zealand,8 wickets,Nelson,31-12-2016,ODI # 3816
